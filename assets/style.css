@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600;700&display=swap');
+
+:root {
+  --bg: #0B1F14;
+  --bg-alt: #0E241A;
+  --surface: #123321;
+  --surface-2: #16402A;
+  --line: #234A32;
+  --yellow: #FFD400;
+  --green: #17A24C;
+  --blue: #1E4FA3;
+  --win: #2FA84F;
+  --draw: #FFD400;
+  --loss: #C1442D;
+  --text: #F3EFE0;
+  --text-muted: #93AC9B;
+  --radius: 10px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  background: radial-gradient(ellipse at top, #0E2417 0%, var(--bg) 55%, #071309 100%);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.app-shell {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 28px 24px 60px;
+}
+
+/* ---------- Header ---------- */
+.header-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 18px;
+  margin-bottom: 24px;
+}
+
+.eyebrow {
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: var(--yellow);
+  margin: 0 0 6px;
+}
+
+.title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 40px;
+  line-height: 1;
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+
+.subtitle {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  margin: 8px 0 0;
+  max-width: 560px;
+}
+
+.next-match-card {
+  background: linear-gradient(135deg, var(--yellow) 0%, #FFE477 100%);
+  color: #10240F;
+  border-radius: var(--radius);
+  padding: 12px 18px;
+  min-width: 230px;
+  text-align: right;
+  position: relative;
+}
+
+.next-match-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  opacity: 0.75;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
+.pulse-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #B3271C;
+  animation: pulse 1.8s infinite ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pulse-dot { animation: none; }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.8); }
+}
+
+.next-match-teams {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  margin-top: 4px;
+}
+
+.next-match-meta {
+  font-size: 11.5px;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+/* ---------- KPI Scoreboard ---------- */
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  margin-bottom: 28px;
+}
+
+@media (max-width: 900px) {
+  .kpi-row { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 520px) {
+  .kpi-row { grid-template-columns: repeat(2, 1fr); }
+}
+
+.kpi-tile {
+  background: var(--surface);
+  border-top: 3px solid var(--yellow);
+  border-radius: var(--radius);
+  padding: 12px 10px 10px;
+  text-align: center;
+}
+
+.kpi-tile.accent-win { border-top-color: var(--win); }
+.kpi-tile.accent-loss { border-top-color: var(--loss); }
+.kpi-tile.accent-blue { border-top-color: var(--blue); }
+
+.kpi-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  font-size: 30px;
+  color: var(--text);
+}
+
+.kpi-label {
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-top: 3px;
+}
+
+/* ---------- Tabs ---------- */
+.dash-tabs .tab {
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 2px solid var(--line) !important;
+  color: var(--text-muted) !important;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 15px;
+  padding: 10px 4px !important;
+}
+
+.dash-tabs .tab--selected {
+  color: var(--yellow) !important;
+  border-bottom: 2px solid var(--yellow) !important;
+  background: transparent !important;
+}
+
+/* ---------- Panels & cards ---------- */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  margin-top: 18px;
+}
+
+.panel-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  font-size: 23px;
+  margin: 0 0 5px;
+}
+
+.panel-desc {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin: 0 0 16px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+@media (max-width: 860px) {
+  .grid-2 { grid-template-columns: 1fr; }
+}
+
+.control-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+  display: block;
+}
+
+.Select-control, .dash-dropdown .Select-control {
+  background-color: var(--bg-alt) !important;
+  border: 1px solid var(--line) !important;
+  color: var(--text) !important;
+}
+
+.h2h-scoreline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 15px;
+  margin: 6px 0 18px;
+}
+
+.h2h-num {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.insight-box {
+  background: rgba(255, 212, 0, 0.08);
+  border-left: 3px solid var(--yellow);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-top: 16px;
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: var(--text);
+}
+
+.insight-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--yellow);
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+/* Botão de download de imagem do Plotly: garante contraste no tema escuro */
+.modebar {
+  background: transparent !important;
+}
+.modebar-btn path {
+  fill: var(--text-muted) !important;
+}
+.modebar-btn:hover path {
+  fill: var(--yellow) !important;
+}
+
+footer.credits {
+  margin-top: 34px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 11.5px;
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+}
+
+footer.credits a { color: var(--yellow); text-decoration: none; }
+
+/* Dash DataTable dark theme overrides */
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table {
+  font-family: 'Inter', sans-serif !important;
+}

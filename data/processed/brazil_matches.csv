@@ -1,0 +1,1064 @@
+date,year,decade,opponent,is_home,venue_type,city,country,tournament,competition_group,goals_for,goals_against,goal_diff,result,points
+1914-09-20,1914,1910,Argentina,False,Fora,Buenos Aires,Argentina,Friendly,Amistoso,0,3,-3,Derrota,0
+1914-09-27,1914,1910,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,1,0,1,Vitória,3
+1916-07-08,1916,1910,Chile,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,1,1,0,Empate,1
+1916-07-10,1916,1910,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,1,1,0,Empate,1
+1916-07-12,1916,1910,Uruguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,1,2,-1,Derrota,0
+1916-07-18,1916,1910,Uruguay,False,Fora,Montevideo,Uruguay,Friendly,Amistoso,1,0,1,Vitória,3
+1917-10-03,1917,1910,Argentina,False,Neutro,Montevideo,Uruguay,Copa América,Copa América,2,4,-2,Derrota,0
+1917-10-07,1917,1910,Uruguay,False,Fora,Montevideo,Uruguay,Copa América,Copa América,0,4,-4,Derrota,0
+1917-10-12,1917,1910,Chile,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,5,0,5,Vitória,3
+1917-10-16,1917,1910,Uruguay,False,Fora,Montevideo,Uruguay,Friendly,Amistoso,1,3,-2,Derrota,0
+1919-05-11,1919,1910,Chile,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,6,0,6,Vitória,3
+1919-05-18,1919,1910,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,3,1,2,Vitória,3
+1919-05-26,1919,1910,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,2,2,0,Empate,1
+1919-05-29,1919,1910,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,0,1,Vitória,3
+1919-06-01,1919,1910,Argentina,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,3,0,Empate,1
+1920-09-11,1920,1920,Chile,False,Fora,Viña del Mar,Chile,Copa América,Copa América,1,0,1,Vitória,3
+1920-09-18,1920,1920,Uruguay,True,Neutro,Viña del Mar,Chile,Copa América,Copa América,0,6,-6,Derrota,0
+1920-09-25,1920,1920,Argentina,False,Neutro,Viña del Mar,Chile,Copa América,Copa América,0,2,-2,Derrota,0
+1921-10-02,1921,1920,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,0,1,-1,Derrota,0
+1921-10-12,1921,1920,Paraguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,0,3,Vitória,3
+1921-10-23,1921,1920,Uruguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,1,2,-1,Derrota,0
+1922-09-17,1922,1920,Chile,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,1,0,Empate,1
+1922-09-24,1922,1920,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,1,0,Empate,1
+1922-10-01,1922,1920,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,0,0,0,Empate,1
+1922-10-15,1922,1920,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,2,0,2,Vitória,3
+1922-10-22,1922,1920,Argentina,True,Casa,São Paulo,Brazil,Copa Roca,Outros Torneios,2,1,1,Vitória,3
+1922-10-29,1922,1920,Paraguay,True,Casa,São Paulo,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1922-11-06,1922,1920,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,3,0,3,Vitória,3
+1923-11-11,1923,1920,Paraguay,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,0,1,-1,Derrota,0
+1923-11-18,1923,1920,Argentina,False,Neutro,Montevideo,Uruguay,Copa América,Copa América,1,2,-1,Derrota,0
+1923-11-22,1923,1920,Paraguay,True,Neutro,Montevideo,Uruguay,Friendly,Amistoso,2,0,2,Vitória,3
+1923-11-25,1923,1920,Uruguay,False,Fora,Montevideo,Uruguay,Copa América,Copa América,1,2,-1,Derrota,0
+1923-12-02,1923,1920,Argentina,False,Fora,Buenos Aires,Argentina,Friendly,Amistoso,2,0,2,Vitória,3
+1923-12-09,1923,1920,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,0,2,-2,Derrota,0
+1925-12-06,1925,1920,Paraguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,5,2,3,Vitória,3
+1925-12-13,1925,1920,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,1,4,-3,Derrota,0
+1925-12-17,1925,1920,Paraguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,1,2,Vitória,3
+1925-12-25,1925,1920,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,2,2,0,Empate,1
+1930-07-14,1930,1930,Yugoslavia,True,Neutro,Montevideo,Uruguay,FIFA World Cup,Copa do Mundo,1,2,-1,Derrota,0
+1930-07-20,1930,1930,Bolivia,False,Neutro,Montevideo,Uruguay,FIFA World Cup,Copa do Mundo,4,0,4,Vitória,3
+1930-08-01,1930,1930,France,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1930-08-10,1930,1930,Yugoslavia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1930-08-17,1930,1930,United States,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,3,1,Vitória,3
+1931-09-06,1931,1930,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,2,0,2,Vitória,3
+1932-12-04,1932,1930,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,2,1,1,Vitória,3
+1934-05-27,1934,1930,Spain,True,Neutro,Genoa,Italy,FIFA World Cup,Copa do Mundo,1,3,-2,Derrota,0
+1934-06-03,1934,1930,Yugoslavia,False,Fora,Belgrade,Yugoslavia,Friendly,Amistoso,4,8,-4,Derrota,0
+1934-06-17,1934,1930,Catalonia,False,Fora,Barcelona,Spain,Friendly,Amistoso,1,2,-1,Derrota,0
+1934-06-24,1934,1930,Catalonia,False,Fora,Girona,Spain,Friendly,Amistoso,2,2,0,Empate,1
+1936-12-27,1936,1930,Peru,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,2,1,Vitória,3
+1937-01-03,1937,1930,Chile,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,6,4,2,Vitória,3
+1937-01-13,1937,1930,Paraguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,5,0,5,Vitória,3
+1937-01-19,1937,1930,Uruguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,2,1,Vitória,3
+1937-01-30,1937,1930,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,0,1,-1,Derrota,0
+1937-02-01,1937,1930,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,0,2,-2,Derrota,0
+1938-06-05,1938,1930,Poland,True,Neutro,Strasbourg,France,FIFA World Cup,Copa do Mundo,6,5,1,Vitória,3
+1938-06-12,1938,1930,Czechoslovakia,True,Neutro,Bordeaux,France,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+1938-06-14,1938,1930,Czechoslovakia,True,Neutro,Bordeaux,France,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1938-06-16,1938,1930,Italy,True,Neutro,Marseille,France,FIFA World Cup,Copa do Mundo,1,2,-1,Derrota,0
+1938-06-19,1938,1930,Sweden,True,Neutro,Bordeaux,France,FIFA World Cup,Copa do Mundo,4,2,2,Vitória,3
+1939-01-15,1939,1930,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,1,5,-4,Derrota,0
+1939-01-22,1939,1930,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,3,2,1,Vitória,3
+1940-02-18,1940,1940,Argentina,True,Casa,São Paulo,Brazil,Copa Roca,Outros Torneios,2,2,0,Empate,1
+1940-02-25,1940,1940,Argentina,True,Casa,São Paulo,Brazil,Copa Roca,Outros Torneios,0,3,-3,Derrota,0
+1940-03-05,1940,1940,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,1,6,-5,Derrota,0
+1940-03-10,1940,1940,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,3,2,1,Vitória,3
+1940-03-17,1940,1940,Argentina,False,Fora,Avellaneda,Argentina,Copa Roca,Outros Torneios,1,5,-4,Derrota,0
+1940-03-24,1940,1940,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,3,4,-1,Derrota,0
+1940-03-31,1940,1940,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,1,1,0,Empate,1
+1942-01-14,1942,1940,Chile,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,6,1,5,Vitória,3
+1942-01-17,1942,1940,Argentina,False,Neutro,Montevideo,Uruguay,Copa América,Copa América,1,2,-1,Derrota,0
+1942-01-21,1942,1940,Peru,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,2,1,1,Vitória,3
+1942-01-24,1942,1940,Uruguay,False,Fora,Montevideo,Uruguay,Copa América,Copa América,0,1,-1,Derrota,0
+1942-01-31,1942,1940,Ecuador,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,5,1,4,Vitória,3
+1942-02-05,1942,1940,Paraguay,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,1,1,0,Empate,1
+1944-05-14,1944,1940,Uruguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,6,1,5,Vitória,3
+1944-05-17,1944,1940,Uruguay,True,Casa,São Paulo,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1945-01-21,1945,1940,Colombia,True,Neutro,Santiago,Chile,Copa América,Copa América,3,0,3,Vitória,3
+1945-01-28,1945,1940,Bolivia,False,Neutro,Santiago,Chile,Copa América,Copa América,2,0,2,Vitória,3
+1945-02-07,1945,1940,Uruguay,True,Neutro,Santiago,Chile,Copa América,Copa América,3,0,3,Vitória,3
+1945-02-15,1945,1940,Argentina,False,Neutro,Santiago,Chile,Copa América,Copa América,1,3,-2,Derrota,0
+1945-02-21,1945,1940,Ecuador,True,Neutro,Santiago,Chile,Copa América,Copa América,9,2,7,Vitória,3
+1945-02-28,1945,1940,Chile,False,Fora,Santiago,Chile,Copa América,Copa América,1,0,1,Vitória,3
+1945-12-16,1945,1940,Argentina,True,Casa,São Paulo,Brazil,Copa Roca,Outros Torneios,3,4,-1,Derrota,0
+1945-12-20,1945,1940,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,6,2,4,Vitória,3
+1945-12-23,1945,1940,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,3,1,2,Vitória,3
+1946-01-05,1946,1940,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,3,4,-1,Derrota,0
+1946-01-16,1946,1940,Bolivia,False,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,0,3,Vitória,3
+1946-01-23,1946,1940,Uruguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,4,3,1,Vitória,3
+1946-01-29,1946,1940,Paraguay,True,Neutro,Avellaneda,Argentina,Copa América,Copa América,1,1,0,Empate,1
+1946-02-03,1946,1940,Chile,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,5,1,4,Vitória,3
+1946-02-10,1946,1940,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,0,2,-2,Derrota,0
+1947-03-29,1947,1940,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,0,0,0,Empate,1
+1947-04-01,1947,1940,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,3,2,1,Vitória,3
+1948-04-04,1948,1940,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,1,1,0,Empate,1
+1948-04-11,1948,1940,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,2,4,-2,Derrota,0
+1949-04-03,1949,1940,Ecuador,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,9,1,8,Vitória,3
+1949-04-10,1949,1940,Bolivia,True,Casa,São Paulo,Brazil,Copa América,Copa América,10,1,9,Vitória,3
+1949-04-13,1949,1940,Chile,True,Casa,São Paulo,Brazil,Copa América,Copa América,2,1,1,Vitória,3
+1949-04-17,1949,1940,Colombia,True,Casa,São Paulo,Brazil,Copa América,Copa América,5,0,5,Vitória,3
+1949-04-24,1949,1940,Peru,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,7,1,6,Vitória,3
+1949-04-30,1949,1940,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,5,1,4,Vitória,3
+1949-05-08,1949,1940,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,2,-1,Derrota,0
+1949-05-11,1949,1940,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,7,0,7,Vitória,3
+1950-05-06,1950,1950,Uruguay,True,Casa,São Paulo,Brazil,Copa Rio Branco,Outros Torneios,3,4,-1,Derrota,0
+1950-05-07,1950,1950,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa Oswaldo Cruz,Outros Torneios,2,0,2,Vitória,3
+1950-05-13,1950,1950,Paraguay,True,Casa,São Paulo,Brazil,Copa Oswaldo Cruz,Outros Torneios,3,3,0,Empate,1
+1950-05-14,1950,1950,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,3,2,1,Vitória,3
+1950-06-24,1950,1950,Mexico,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup,Copa do Mundo,4,0,4,Vitória,3
+1950-06-28,1950,1950,Switzerland,True,Casa,São Paulo,Brazil,FIFA World Cup,Copa do Mundo,2,2,0,Empate,1
+1950-07-01,1950,1950,Yugoslavia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+1950-07-09,1950,1950,Sweden,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup,Copa do Mundo,7,1,6,Vitória,3
+1950-07-13,1950,1950,Spain,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup,Copa do Mundo,6,1,5,Vitória,3
+1950-07-16,1950,1950,Uruguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup,Copa do Mundo,1,2,-1,Derrota,0
+1952-04-06,1952,1950,Mexico,True,Neutro,Santiago,Chile,Pan American Championship,Outros Torneios,2,0,2,Vitória,3
+1952-04-10,1952,1950,Peru,True,Neutro,Santiago,Chile,Pan American Championship,Outros Torneios,0,0,0,Empate,1
+1952-04-13,1952,1950,Panama,True,Neutro,Santiago,Chile,Pan American Championship,Outros Torneios,5,0,5,Vitória,3
+1952-04-16,1952,1950,Uruguay,True,Neutro,Santiago,Chile,Pan American Championship,Outros Torneios,4,2,2,Vitória,3
+1952-04-20,1952,1950,Chile,False,Fora,Santiago,Chile,Pan American Championship,Outros Torneios,3,0,3,Vitória,3
+1953-03-01,1953,1950,Bolivia,False,Neutro,Lima,Peru,Copa América,Copa América,8,1,7,Vitória,3
+1953-03-12,1953,1950,Ecuador,True,Neutro,Lima,Peru,Copa América,Copa América,2,0,2,Vitória,3
+1953-03-15,1953,1950,Uruguay,True,Neutro,Lima,Peru,Copa América,Copa América,1,0,1,Vitória,3
+1953-03-19,1953,1950,Peru,False,Fora,Lima,Peru,Copa América,Copa América,0,1,-1,Derrota,0
+1953-03-23,1953,1950,Chile,True,Neutro,Lima,Peru,Copa América,Copa América,3,2,1,Vitória,3
+1953-03-27,1953,1950,Paraguay,True,Neutro,Lima,Peru,Copa América,Copa América,1,2,-1,Derrota,0
+1953-04-01,1953,1950,Paraguay,True,Neutro,Lima,Peru,Copa América,Copa América,2,3,-1,Derrota,0
+1954-02-28,1954,1950,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+1954-03-07,1954,1950,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1954-03-14,1954,1950,Chile,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1954-03-21,1954,1950,Paraguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,1,3,Vitória,3
+1954-06-16,1954,1950,Mexico,True,Neutro,Geneva,Switzerland,FIFA World Cup,Copa do Mundo,5,0,5,Vitória,3
+1954-06-19,1954,1950,Yugoslavia,True,Neutro,Lausanne,Switzerland,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+1954-06-27,1954,1950,Hungary,True,Neutro,Bern,Switzerland,FIFA World Cup,Copa do Mundo,2,4,-2,Derrota,0
+1955-09-18,1955,1950,Chile,True,Casa,Rio de Janeiro,Brazil,Copa Bernardo O'Higgins,Outros Torneios,1,1,0,Empate,1
+1955-09-20,1955,1950,Chile,True,Casa,São Paulo,Brazil,Copa Bernardo O'Higgins,Outros Torneios,2,1,1,Vitória,3
+1955-11-13,1955,1950,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa Oswaldo Cruz,Outros Torneios,3,0,3,Vitória,3
+1955-11-17,1955,1950,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa Oswaldo Cruz,Outros Torneios,3,3,0,Empate,1
+1956-01-24,1956,1950,Chile,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,1,4,-3,Derrota,0
+1956-01-29,1956,1950,Paraguay,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,0,0,0,Empate,1
+1956-02-01,1956,1950,Peru,True,Neutro,Montevideo,Uruguay,Copa América,Copa América,2,1,1,Vitória,3
+1956-02-05,1956,1950,Argentina,False,Neutro,Montevideo,Uruguay,Copa América,Copa América,1,0,1,Vitória,3
+1956-02-10,1956,1950,Uruguay,False,Fora,Montevideo,Uruguay,Copa América,Copa América,0,0,0,Empate,1
+1956-03-01,1956,1950,Chile,True,Neutro,Mexico City,Mexico,Pan American Championship,Outros Torneios,2,1,1,Vitória,3
+1956-03-06,1956,1950,Peru,True,Neutro,Mexico City,Mexico,Pan American Championship,Outros Torneios,1,0,1,Vitória,3
+1956-03-08,1956,1950,Mexico,False,Fora,Mexico City,Mexico,Pan American Championship,Outros Torneios,2,1,1,Vitória,3
+1956-03-13,1956,1950,Costa Rica,True,Neutro,Mexico City,Mexico,Pan American Championship,Outros Torneios,7,1,6,Vitória,3
+1956-03-18,1956,1950,Argentina,False,Neutro,Mexico City,Mexico,Pan American Championship,Outros Torneios,2,2,0,Empate,1
+1956-04-08,1956,1950,Portugal,False,Fora,Oeiras,Portugal,Friendly,Amistoso,1,0,1,Vitória,3
+1956-04-11,1956,1950,Switzerland,False,Fora,Zürich,Switzerland,Friendly,Amistoso,1,1,0,Empate,1
+1956-04-15,1956,1950,Austria,False,Fora,Vienna,Austria,Friendly,Amistoso,3,2,1,Vitória,3
+1956-04-21,1956,1950,Czechoslovakia,False,Fora,Prague,Czechoslovakia,Friendly,Amistoso,0,0,0,Empate,1
+1956-04-25,1956,1950,Italy,False,Fora,Milan,Italy,Friendly,Amistoso,0,3,-3,Derrota,0
+1956-05-01,1956,1950,Turkey,False,Fora,Istanbul,Turkey,Friendly,Amistoso,1,0,1,Vitória,3
+1956-05-09,1956,1950,England,False,Fora,London,England,Friendly,Amistoso,2,4,-2,Derrota,0
+1956-06-12,1956,1950,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,2,0,2,Vitória,3
+1956-06-17,1956,1950,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,5,2,3,Vitória,3
+1956-06-24,1956,1950,Uruguay,True,Casa,Rio de Janeiro,Brazil,Atlantic Cup,Outros Torneios,2,0,2,Vitória,3
+1956-07-01,1956,1950,Italy,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1956-07-08,1956,1950,Argentina,False,Fora,Avellaneda,Argentina,Atlantic Cup,Outros Torneios,0,0,0,Empate,1
+1956-08-05,1956,1950,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,1,-1,Derrota,0
+1956-08-08,1956,1950,Czechoslovakia,True,Casa,São Paulo,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1957-03-13,1957,1950,Chile,True,Neutro,Lima,Peru,Copa América,Copa América,4,2,2,Vitória,3
+1957-03-21,1957,1950,Ecuador,True,Neutro,Lima,Peru,Copa América,Copa América,7,1,6,Vitória,3
+1957-03-24,1957,1950,Colombia,True,Neutro,Lima,Peru,Copa América,Copa América,9,0,9,Vitória,3
+1957-03-28,1957,1950,Uruguay,True,Neutro,Lima,Peru,Copa América,Copa América,2,3,-1,Derrota,0
+1957-03-31,1957,1950,Peru,False,Fora,Lima,Peru,Copa América,Copa América,1,0,1,Vitória,3
+1957-04-03,1957,1950,Argentina,False,Neutro,Lima,Peru,Copa América,Copa América,0,3,-3,Derrota,0
+1957-04-13,1957,1950,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+1957-04-21,1957,1950,Peru,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1957-06-11,1957,1950,Portugal,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1957-06-16,1957,1950,Portugal,True,Casa,São Paulo,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1957-07-07,1957,1950,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,1,2,-1,Derrota,0
+1957-07-10,1957,1950,Argentina,True,Casa,São Paulo,Brazil,Copa Roca,Outros Torneios,2,0,2,Vitória,3
+1957-09-15,1957,1950,Chile,False,Fora,Santiago,Chile,Copa Bernardo O'Higgins,Outros Torneios,0,1,-1,Derrota,0
+1957-09-18,1957,1950,Chile,False,Fora,Santiago,Chile,Copa Bernardo O'Higgins,Outros Torneios,1,1,0,Empate,1
+1958-05-04,1958,1950,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa Oswaldo Cruz,Outros Torneios,5,1,4,Vitória,3
+1958-05-07,1958,1950,Paraguay,True,Casa,São Paulo,Brazil,Copa Oswaldo Cruz,Outros Torneios,0,0,0,Empate,1
+1958-05-14,1958,1950,Bulgaria,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1958-05-18,1958,1950,Bulgaria,True,Casa,São Paulo,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1958-06-08,1958,1950,Austria,False,Neutro,Uddevalla,Sweden,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+1958-06-11,1958,1950,England,True,Neutro,Gothenburg,Sweden,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1958-06-15,1958,1950,Russia,True,Neutro,Gothenburg,Sweden,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+1958-06-19,1958,1950,Wales,True,Neutro,Gothenburg,Sweden,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1958-06-24,1958,1950,France,True,Neutro,Solna,Sweden,FIFA World Cup,Copa do Mundo,5,2,3,Vitória,3
+1958-06-29,1958,1950,Sweden,False,Fora,Solna,Sweden,FIFA World Cup,Copa do Mundo,5,2,3,Vitória,3
+1959-03-10,1959,1950,Peru,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,2,2,0,Empate,1
+1959-03-15,1959,1950,Chile,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,0,3,Vitória,3
+1959-03-21,1959,1950,Bolivia,False,Neutro,Buenos Aires,Argentina,Copa América,Copa América,4,2,2,Vitória,3
+1959-03-26,1959,1950,Uruguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,3,1,2,Vitória,3
+1959-03-29,1959,1950,Paraguay,True,Neutro,Buenos Aires,Argentina,Copa América,Copa América,4,1,3,Vitória,3
+1959-04-04,1959,1950,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,1,1,0,Empate,1
+1959-05-13,1959,1950,England,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1959-09-17,1959,1950,Chile,True,Casa,Rio de Janeiro,Brazil,Copa Bernardo O'Higgins,Outros Torneios,7,0,7,Vitória,3
+1959-09-20,1959,1950,Chile,True,Casa,Rio de Janeiro,Brazil,Copa Bernardo O'Higgins,Outros Torneios,1,0,1,Vitória,3
+1959-12-05,1959,1950,Paraguay,True,Neutro,Guayaquil,Ecuador,Copa América,Copa América,3,2,1,Vitória,3
+1959-12-12,1959,1950,Uruguay,True,Neutro,Guayaquil,Ecuador,Copa América,Copa América,0,3,-3,Derrota,0
+1959-12-19,1959,1950,Ecuador,False,Fora,Guayaquil,Ecuador,Copa América,Copa América,3,1,2,Vitória,3
+1959-12-22,1959,1950,Argentina,False,Neutro,Guayaquil,Ecuador,Copa América,Copa América,1,4,-3,Derrota,0
+1959-12-27,1959,1950,Ecuador,False,Fora,Guayaquil,Ecuador,Friendly,Amistoso,2,1,1,Vitória,3
+1960-03-06,1960,1960,Mexico,True,Neutro,San José,Costa Rica,Pan American Championship,Outros Torneios,2,2,0,Empate,1
+1960-03-10,1960,1960,Costa Rica,False,Fora,San José,Costa Rica,Pan American Championship,Outros Torneios,0,3,-3,Derrota,0
+1960-03-13,1960,1960,Argentina,False,Neutro,San José,Costa Rica,Pan American Championship,Outros Torneios,1,2,-1,Derrota,0
+1960-03-15,1960,1960,Mexico,True,Neutro,San José,Costa Rica,Pan American Championship,Outros Torneios,2,1,1,Vitória,3
+1960-03-17,1960,1960,Costa Rica,False,Fora,San José,Costa Rica,Pan American Championship,Outros Torneios,4,0,4,Vitória,3
+1960-03-20,1960,1960,Argentina,False,Neutro,San José,Costa Rica,Pan American Championship,Outros Torneios,1,0,1,Vitória,3
+1960-04-29,1960,1960,Egypt,False,Neutro,Cairo,United Arab Republic,Friendly,Amistoso,5,0,5,Vitória,3
+1960-05-01,1960,1960,Egypt,False,Neutro,Alexandria,United Arab Republic,Friendly,Amistoso,3,1,2,Vitória,3
+1960-05-06,1960,1960,Egypt,False,Neutro,Cairo,United Arab Republic,Friendly,Amistoso,3,0,3,Vitória,3
+1960-05-10,1960,1960,Denmark,False,Fora,Esbjerg,Denmark,Friendly,Amistoso,4,3,1,Vitória,3
+1960-05-26,1960,1960,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,2,4,-2,Derrota,0
+1960-05-29,1960,1960,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,4,1,3,Vitória,3
+1960-06-29,1960,1960,Chile,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1960-07-03,1960,1960,Paraguay,False,Fora,Asunción,Paraguay,Atlantic Cup,Outros Torneios,2,1,1,Vitória,3
+1960-07-09,1960,1960,Uruguay,False,Fora,Montevideo,Uruguay,Atlantic Cup,Outros Torneios,0,1,-1,Derrota,0
+1960-07-12,1960,1960,Argentina,True,Casa,Rio de Janeiro,Brazil,Atlantic Cup,Outros Torneios,5,1,4,Vitória,3
+1961-04-30,1961,1960,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,2,0,2,Vitória,3
+1961-05-03,1961,1960,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,3,2,1,Vitória,3
+1961-05-07,1961,1960,Chile,False,Fora,Santiago,Chile,Copa Bernardo O'Higgins,Outros Torneios,2,1,1,Vitória,3
+1961-05-11,1961,1960,Chile,False,Fora,Santiago,Chile,Copa Bernardo O'Higgins,Outros Torneios,1,0,1,Vitória,3
+1961-06-29,1961,1960,Paraguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1962-04-21,1962,1960,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa Oswaldo Cruz,Outros Torneios,6,0,6,Vitória,3
+1962-04-24,1962,1960,Paraguay,True,Casa,São Paulo,Brazil,Copa Oswaldo Cruz,Outros Torneios,4,0,4,Vitória,3
+1962-05-06,1962,1960,Portugal,True,Casa,São Paulo,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1962-05-09,1962,1960,Portugal,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1962-05-12,1962,1960,Wales,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1962-05-16,1962,1960,Wales,True,Casa,São Paulo,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1962-05-30,1962,1960,Mexico,True,Neutro,Viña del Mar,Chile,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+1962-06-02,1962,1960,Czechoslovakia,True,Neutro,Viña del Mar,Chile,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1962-06-06,1962,1960,Spain,True,Neutro,Viña del Mar,Chile,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1962-06-10,1962,1960,England,True,Neutro,Viña del Mar,Chile,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+1962-06-13,1962,1960,Chile,False,Fora,Santiago,Chile,FIFA World Cup,Copa do Mundo,4,2,2,Vitória,3
+1962-06-17,1962,1960,Czechoslovakia,True,Neutro,Santiago,Chile,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+1963-03-03,1963,1960,Paraguay,False,Fora,Asunción,Paraguay,Friendly,Amistoso,2,2,0,Empate,1
+1963-03-10,1963,1960,Peru,True,Neutro,Cochabamba,Bolivia,Copa América,Copa América,1,0,1,Vitória,3
+1963-03-14,1963,1960,Colombia,True,Neutro,La Paz,Bolivia,Copa América,Copa América,5,1,4,Vitória,3
+1963-03-17,1963,1960,Paraguay,True,Neutro,La Paz,Bolivia,Copa América,Copa América,0,2,-2,Derrota,0
+1963-03-24,1963,1960,Argentina,False,Neutro,La Paz,Bolivia,Copa América,Copa América,0,3,-3,Derrota,0
+1963-03-27,1963,1960,Ecuador,True,Neutro,Cochabamba,Bolivia,Copa América,Copa América,2,2,0,Empate,1
+1963-03-31,1963,1960,Bolivia,False,Fora,Cochabamba,Bolivia,Copa América,Copa América,4,5,-1,Derrota,0
+1963-04-13,1963,1960,Argentina,True,Casa,São Paulo,Brazil,Copa Roca,Outros Torneios,2,3,-1,Derrota,0
+1963-04-16,1963,1960,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,5,2,3,Vitória,3
+1963-04-21,1963,1960,Portugal,False,Fora,Lisbon,Portugal,Friendly,Amistoso,0,1,-1,Derrota,0
+1963-04-24,1963,1960,Belgium,False,Fora,Brussels,Belgium,Friendly,Amistoso,1,5,-4,Derrota,0
+1963-04-28,1963,1960,France,False,Fora,Colombes,France,Friendly,Amistoso,3,2,1,Vitória,3
+1963-05-02,1963,1960,Netherlands,False,Fora,Amsterdam,Netherlands,Friendly,Amistoso,0,1,-1,Derrota,0
+1963-05-05,1963,1960,Germany,False,Fora,Hamburg,Germany,Friendly,Amistoso,2,1,1,Vitória,3
+1963-05-08,1963,1960,England,False,Fora,London,England,Friendly,Amistoso,1,1,0,Empate,1
+1963-05-12,1963,1960,Italy,False,Fora,Milan,Italy,Friendly,Amistoso,0,3,-3,Derrota,0
+1963-05-17,1963,1960,Egypt,False,Fora,Cairo,Egypt,Friendly,Amistoso,1,0,1,Vitória,3
+1963-05-19,1963,1960,Israel,False,Fora,Ramat Gan,Israel,Friendly,Amistoso,5,0,5,Vitória,3
+1964-05-30,1964,1960,England,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,5,1,4,Vitória,3
+1964-06-03,1964,1960,Argentina,True,Casa,São Paulo,Brazil,Friendly,Amistoso,0,3,-3,Derrota,0
+1964-06-07,1964,1960,Portugal,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1965-06-02,1965,1960,Belgium,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,5,0,5,Vitória,3
+1965-06-06,1965,1960,Germany,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1965-06-09,1965,1960,Argentina,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1965-06-17,1965,1960,Algeria,False,Fora,Oran,Algeria,Friendly,Amistoso,3,0,3,Vitória,3
+1965-06-24,1965,1960,Portugal,False,Fora,Porto,Portugal,Friendly,Amistoso,0,0,0,Empate,1
+1965-06-30,1965,1960,Sweden,False,Fora,Solna,Sweden,Friendly,Amistoso,2,1,1,Vitória,3
+1965-07-04,1965,1960,Russia,False,Fora,Moscow,Soviet Union,Friendly,Amistoso,3,0,3,Vitória,3
+1965-09-07,1965,1960,Uruguay,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1965-11-21,1965,1960,Russia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1965-11-21,1965,1960,Hungary,True,Casa,São Paulo,Brazil,Friendly,Amistoso,5,3,2,Vitória,3
+1966-04-17,1966,1960,Chile,False,Fora,Santiago,Chile,Copa Bernardo O'Higgins,Outros Torneios,1,0,1,Vitória,3
+1966-04-20,1966,1960,Chile,False,Fora,Viña del Mar,Chile,Copa Bernardo O'Higgins,Outros Torneios,1,2,-1,Derrota,0
+1966-05-14,1966,1960,Wales,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1966-05-15,1966,1960,Chile,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1966-05-18,1966,1960,Wales,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1966-05-19,1966,1960,Chile,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1966-06-04,1966,1960,Peru,True,Casa,São Paulo,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1966-06-05,1966,1960,Poland,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1966-06-08,1966,1960,Poland,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1966-06-08,1966,1960,Peru,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1966-06-12,1966,1960,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1966-06-15,1966,1960,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1966-06-25,1966,1960,Scotland,False,Fora,Glasgow,Scotland,Friendly,Amistoso,1,1,0,Empate,1
+1966-06-30,1966,1960,Sweden,False,Fora,Gothenburg,Sweden,Friendly,Amistoso,3,2,1,Vitória,3
+1966-07-12,1966,1960,Bulgaria,True,Neutro,Liverpool,England,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+1966-07-15,1966,1960,Hungary,True,Neutro,Liverpool,England,FIFA World Cup,Copa do Mundo,1,3,-2,Derrota,0
+1966-07-19,1966,1960,Portugal,True,Neutro,Liverpool,England,FIFA World Cup,Copa do Mundo,1,3,-2,Derrota,0
+1967-06-25,1967,1960,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,0,0,0,Empate,1
+1967-06-28,1967,1960,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,2,2,0,Empate,1
+1967-07-01,1967,1960,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,1,1,0,Empate,1
+1967-09-19,1967,1960,Chile,False,Fora,Santiago,Chile,Friendly,Amistoso,1,0,1,Vitória,3
+1968-06-09,1968,1960,Uruguay,True,Casa,São Paulo,Brazil,Copa Rio Branco,Outros Torneios,2,0,2,Vitória,3
+1968-06-12,1968,1960,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,4,0,4,Vitória,3
+1968-06-16,1968,1960,Germany,False,Fora,Stuttgart,Germany,Friendly,Amistoso,1,2,-1,Derrota,0
+1968-06-20,1968,1960,Poland,False,Fora,Warsaw,Poland,Friendly,Amistoso,6,3,3,Vitória,3
+1968-06-23,1968,1960,Czechoslovakia,False,Fora,Bratislava,Czechoslovakia,Friendly,Amistoso,2,3,-1,Derrota,0
+1968-06-25,1968,1960,Yugoslavia,False,Fora,Belgrade,Yugoslavia,Friendly,Amistoso,2,0,2,Vitória,3
+1968-06-30,1968,1960,Portugal,False,Neutro,Maputo,Mozambique,Friendly,Amistoso,2,0,2,Vitória,3
+1968-07-07,1968,1960,Mexico,False,Fora,Mexico City,Mexico,Friendly,Amistoso,2,0,2,Vitória,3
+1968-07-10,1968,1960,Mexico,False,Fora,Mexico City,Mexico,Friendly,Amistoso,1,2,-1,Derrota,0
+1968-07-14,1968,1960,Peru,False,Fora,Lima,Peru,Friendly,Amistoso,4,3,1,Vitória,3
+1968-07-17,1968,1960,Peru,False,Fora,Lima,Peru,Friendly,Amistoso,4,0,4,Vitória,3
+1968-07-25,1968,1960,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,4,0,4,Vitória,3
+1968-07-28,1968,1960,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,0,1,-1,Derrota,0
+1968-08-07,1968,1960,Argentina,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1968-08-11,1968,1960,Argentina,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1968-10-31,1968,1960,Mexico,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,2,-1,Derrota,0
+1968-11-03,1968,1960,Mexico,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1968-12-14,1968,1960,Germany,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1968-12-17,1968,1960,Yugoslavia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,3,0,Empate,1
+1968-12-19,1968,1960,Yugoslavia,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1969-04-07,1969,1960,Peru,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1969-04-09,1969,1960,Peru,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1969-06-12,1969,1960,England,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1969-08-06,1969,1960,Colombia,False,Fora,Bogotá,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+1969-08-10,1969,1960,Venezuela,False,Fora,Caracas,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+1969-08-17,1969,1960,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+1969-08-21,1969,1960,Colombia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,6,2,4,Vitória,3
+1969-08-24,1969,1960,Venezuela,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,6,0,6,Vitória,3
+1969-08-31,1969,1960,Paraguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1970-03-04,1970,1970,Argentina,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,0,2,-2,Derrota,0
+1970-03-08,1970,1970,Argentina,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1970-03-22,1970,1970,Chile,True,Casa,São Paulo,Brazil,Friendly,Amistoso,5,0,5,Vitória,3
+1970-03-26,1970,1970,Chile,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1970-04-12,1970,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1970-04-29,1970,1970,Austria,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1970-06-03,1970,1970,Czechoslovakia,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+1970-06-07,1970,1970,England,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1970-06-10,1970,1970,Romania,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,3,2,1,Vitória,3
+1970-06-14,1970,1970,Peru,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,4,2,2,Vitória,3
+1970-06-17,1970,1970,Uruguay,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+1970-06-21,1970,1970,Italy,True,Neutro,Mexico City,Mexico,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+1970-09-30,1970,1970,Mexico,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1970-10-04,1970,1970,Chile,False,Fora,Santiago,Chile,Friendly,Amistoso,5,1,4,Vitória,3
+1971-07-11,1971,1970,Austria,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1971-07-14,1971,1970,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1971-07-18,1971,1970,Yugoslavia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1971-07-24,1971,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1971-07-28,1971,1970,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,1,1,0,Empate,1
+1971-07-31,1971,1970,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,2,2,0,Empate,1
+1972-04-26,1972,1970,Paraguay,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1972-06-28,1972,1970,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Brazil Independence Cup,Outros Torneios,0,0,0,Empate,1
+1972-07-02,1972,1970,Yugoslavia,True,Casa,São Paulo,Brazil,Brazil Independence Cup,Outros Torneios,3,0,3,Vitória,3
+1972-07-05,1972,1970,Scotland,True,Casa,Rio de Janeiro,Brazil,Brazil Independence Cup,Outros Torneios,1,0,1,Vitória,3
+1972-07-09,1972,1970,Portugal,True,Casa,Rio de Janeiro,Brazil,Brazil Independence Cup,Outros Torneios,1,0,1,Vitória,3
+1973-05-27,1973,1970,Bolivia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,5,0,5,Vitória,3
+1973-06-03,1973,1970,Algeria,False,Fora,Algiers,Algeria,Friendly,Amistoso,2,0,2,Vitória,3
+1973-06-06,1973,1970,Tunisia,False,Fora,Tunis,Tunisia,Friendly,Amistoso,4,1,3,Vitória,3
+1973-06-09,1973,1970,Italy,False,Fora,Rome,Italy,Friendly,Amistoso,0,2,-2,Derrota,0
+1973-06-13,1973,1970,Austria,False,Fora,Vienna,Austria,Friendly,Amistoso,1,1,0,Empate,1
+1973-06-16,1973,1970,Germany,False,Fora,Berlin,Germany,Friendly,Amistoso,1,0,1,Vitória,3
+1973-06-21,1973,1970,Russia,False,Fora,Moscow,Soviet Union,Friendly,Amistoso,1,0,1,Vitória,3
+1973-06-25,1973,1970,Sweden,False,Fora,Solna,Sweden,Friendly,Amistoso,0,1,-1,Derrota,0
+1973-06-30,1973,1970,Scotland,False,Fora,Glasgow,Scotland,Friendly,Amistoso,1,0,1,Vitória,3
+1973-07-03,1973,1970,Republic of Ireland,False,Fora,Dublin,Republic of Ireland,Friendly,Amistoso,4,3,1,Vitória,3
+1974-03-31,1974,1970,Mexico,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1974-04-07,1974,1970,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1974-04-14,1974,1970,Bulgaria,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1974-04-17,1974,1970,Romania,True,Casa,São Paulo,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1974-04-21,1974,1970,Haiti,True,Casa,Brasília,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1974-04-28,1974,1970,Greece,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1974-05-01,1974,1970,Austria,True,Casa,São Paulo,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1974-05-05,1974,1970,Republic of Ireland,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1974-05-12,1974,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1974-06-13,1974,1970,Yugoslavia,True,Neutro,Frankfurt,Germany,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1974-06-18,1974,1970,Scotland,False,Neutro,Frankfurt,Germany,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1974-06-22,1974,1970,DR Congo,False,Neutro,Gelsenkirchen,Germany,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+1974-06-26,1974,1970,German DR,True,Neutro,Hanover,Germany,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1974-06-30,1974,1970,Argentina,False,Neutro,Hanover,Germany,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1974-07-03,1974,1970,Netherlands,False,Neutro,Dortmund,Germany,FIFA World Cup,Copa do Mundo,0,2,-2,Derrota,0
+1974-07-06,1974,1970,Poland,True,Neutro,Munich,Germany,FIFA World Cup,Copa do Mundo,0,1,-1,Derrota,0
+1975-03-09,1975,1970,Portugal,True,Casa,Goiânia,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1975-07-31,1975,1970,Venezuela,False,Fora,Caracas,Venezuela,Copa América,Copa América,4,0,4,Vitória,3
+1975-08-06,1975,1970,Argentina,True,Casa,Belo Horizonte,Brazil,Copa América,Copa América,2,1,1,Vitória,3
+1975-08-13,1975,1970,Venezuela,True,Casa,Belo Horizonte,Brazil,Copa América,Copa América,6,0,6,Vitória,3
+1975-08-16,1975,1970,Argentina,False,Fora,Rosario,Argentina,Copa América,Copa América,1,0,1,Vitória,3
+1975-09-30,1975,1970,Peru,True,Casa,Belo Horizonte,Brazil,Copa América,Copa América,1,3,-2,Derrota,0
+1975-10-04,1975,1970,Peru,False,Fora,Lima,Peru,Copa América,Copa América,2,0,2,Vitória,3
+1976-02-25,1976,1970,Uruguay,False,Fora,Montevideo,Uruguay,Copa Rio Branco,Outros Torneios,2,1,1,Vitória,3
+1976-02-27,1976,1970,Argentina,False,Fora,Buenos Aires,Argentina,Copa Roca,Outros Torneios,2,1,1,Vitória,3
+1976-04-07,1976,1970,Paraguay,False,Fora,Asunción,Paraguay,Copa Oswaldo Cruz,Outros Torneios,1,1,0,Empate,1
+1976-04-28,1976,1970,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa Rio Branco,Outros Torneios,2,1,1,Vitória,3
+1976-05-19,1976,1970,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa Roca,Outros Torneios,2,0,2,Vitória,3
+1976-05-23,1976,1970,England,True,Neutro,Los Angeles,United States,Friendly,Amistoso,1,0,1,Vitória,3
+1976-05-31,1976,1970,Italy,True,Neutro,New Haven,United States,Friendly,Amistoso,4,1,3,Vitória,3
+1976-06-04,1976,1970,Mexico,False,Fora,Guadalajara,Mexico,Friendly,Amistoso,3,0,3,Vitória,3
+1976-06-09,1976,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa Oswaldo Cruz,Outros Torneios,3,1,2,Vitória,3
+1976-12-01,1976,1970,Russia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1977-01-23,1977,1970,Bulgaria,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1977-02-20,1977,1970,Colombia,False,Fora,Bogotá,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+1977-03-09,1977,1970,Colombia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,6,0,6,Vitória,3
+1977-03-13,1977,1970,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1977-03-20,1977,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+1977-06-08,1977,1970,England,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1977-06-12,1977,1970,Germany,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1977-06-19,1977,1970,Poland,True,Casa,São Paulo,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1977-06-23,1977,1970,Scotland,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1977-06-26,1977,1970,Yugoslavia,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1977-06-30,1977,1970,France,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1977-07-10,1977,1970,Peru,False,Neutro,Cali,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1977-07-14,1977,1970,Bolivia,True,Neutro,Cali,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,8,0,8,Vitória,3
+1978-04-01,1978,1970,France,False,Fora,Paris,France,Friendly,Amistoso,0,1,-1,Derrota,0
+1978-04-05,1978,1970,Germany,False,Fora,Hamburg,Germany,Friendly,Amistoso,1,0,1,Vitória,3
+1978-04-19,1978,1970,England,False,Fora,London,England,Friendly,Amistoso,1,1,0,Empate,1
+1978-05-01,1978,1970,Peru,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1978-05-17,1978,1970,Czechoslovakia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1978-06-03,1978,1970,Sweden,True,Neutro,Mar del Plata,Argentina,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+1978-06-07,1978,1970,Spain,True,Neutro,Mar del Plata,Argentina,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1978-06-11,1978,1970,Austria,False,Neutro,Mar del Plata,Argentina,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1978-06-14,1978,1970,Peru,True,Neutro,Mendoza,Argentina,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+1978-06-18,1978,1970,Argentina,False,Fora,Rosario,Argentina,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1978-06-21,1978,1970,Poland,True,Neutro,Mendoza,Argentina,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+1978-06-24,1978,1970,Italy,True,Neutro,Buenos Aires,Argentina,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1979-05-17,1979,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,6,0,6,Vitória,3
+1979-05-31,1979,1970,Uruguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,5,1,4,Vitória,3
+1979-07-26,1979,1970,Bolivia,False,Fora,La Paz,Bolivia,Copa América,Copa América,1,2,-1,Derrota,0
+1979-08-02,1979,1970,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,2,1,1,Vitória,3
+1979-08-16,1979,1970,Bolivia,True,Casa,São Paulo,Brazil,Copa América,Copa América,2,0,2,Vitória,3
+1979-08-23,1979,1970,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,2,2,0,Empate,1
+1979-10-24,1979,1970,Paraguay,False,Fora,Asunción,Paraguay,Copa América,Copa América,1,2,-1,Derrota,0
+1979-10-31,1979,1970,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,2,2,0,Empate,1
+1980-06-08,1980,1980,Mexico,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1980-06-15,1980,1980,Russia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,2,-1,Derrota,0
+1980-06-24,1980,1980,Chile,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1980-06-29,1980,1980,Poland,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1980-08-27,1980,1980,Uruguay,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1980-09-25,1980,1980,Paraguay,False,Fora,Asunción,Paraguay,Friendly,Amistoso,2,1,1,Vitória,3
+1980-10-30,1980,1980,Paraguay,True,Casa,Goiânia,Brazil,Friendly,Amistoso,6,0,6,Vitória,3
+1980-12-21,1980,1980,Switzerland,True,Casa,Cuiabá,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1981-01-04,1981,1980,Argentina,False,Neutro,Montevideo,Uruguay,Mundialito,Outros Torneios,1,1,0,Empate,1
+1981-01-07,1981,1980,Germany,True,Neutro,Montevideo,Uruguay,Mundialito,Outros Torneios,4,1,3,Vitória,3
+1981-01-10,1981,1980,Uruguay,False,Fora,Montevideo,Uruguay,Mundialito,Outros Torneios,1,2,-1,Derrota,0
+1981-02-01,1981,1980,Colombia,False,Fora,Bogotá,Colombia,Friendly,Amistoso,1,1,0,Empate,1
+1981-02-08,1981,1980,Venezuela,False,Fora,Caracas,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1981-02-14,1981,1980,Ecuador,False,Fora,Quito,Ecuador,Friendly,Amistoso,6,0,6,Vitória,3
+1981-02-22,1981,1980,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+1981-03-14,1981,1980,Chile,True,Casa,Ribeirão Preto,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1981-03-22,1981,1980,Bolivia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+1981-03-29,1981,1980,Venezuela,True,Casa,Goiânia,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+1981-05-12,1981,1980,England,False,Fora,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+1981-05-15,1981,1980,France,False,Fora,Paris,France,Friendly,Amistoso,3,1,2,Vitória,3
+1981-05-19,1981,1980,Germany,False,Fora,Stuttgart,Germany,Friendly,Amistoso,2,1,1,Vitória,3
+1981-07-08,1981,1980,Spain,True,Casa,Salvador,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1981-08-26,1981,1980,Chile,False,Fora,Santiago,Chile,Friendly,Amistoso,0,0,0,Empate,1
+1981-10-28,1981,1980,Bulgaria,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1982-01-26,1982,1980,German DR,True,Casa,Natal,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1982-03-03,1982,1980,Czechoslovakia,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1982-03-21,1982,1980,Germany,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1982-05-05,1982,1980,Portugal,True,Casa,São Luís,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1982-05-19,1982,1980,Switzerland,True,Casa,Recife,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1982-05-27,1982,1980,Republic of Ireland,True,Casa,Uberlândia,Brazil,Friendly,Amistoso,7,0,7,Vitória,3
+1982-06-14,1982,1980,Russia,True,Neutro,Seville,Spain,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1982-06-18,1982,1980,Scotland,True,Neutro,Seville,Spain,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+1982-06-23,1982,1980,New Zealand,True,Neutro,Seville,Spain,FIFA World Cup,Copa do Mundo,4,0,4,Vitória,3
+1982-07-02,1982,1980,Argentina,False,Neutro,Barcelona,Spain,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+1982-07-05,1982,1980,Italy,False,Neutro,Barcelona,Spain,FIFA World Cup,Copa do Mundo,2,3,-1,Derrota,0
+1983-04-28,1983,1980,Chile,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,2,1,Vitória,3
+1983-06-08,1983,1980,Portugal,False,Fora,Coimbra,Portugal,Friendly,Amistoso,4,0,4,Vitória,3
+1983-06-12,1983,1980,Wales,False,Fora,Cardiff,Wales,Friendly,Amistoso,1,1,0,Empate,1
+1983-06-17,1983,1980,Switzerland,False,Fora,Basel,Switzerland,Friendly,Amistoso,2,1,1,Vitória,3
+1983-06-22,1983,1980,Sweden,False,Fora,Gothenburg,Sweden,Friendly,Amistoso,3,3,0,Empate,1
+1983-07-28,1983,1980,Chile,False,Fora,Santiago,Chile,Friendly,Amistoso,0,0,0,Empate,1
+1983-08-17,1983,1980,Ecuador,False,Fora,Quito,Ecuador,Copa América,Copa América,1,0,1,Vitória,3
+1983-08-24,1983,1980,Argentina,False,Fora,Buenos Aires,Argentina,Copa América,Copa América,0,1,-1,Derrota,0
+1983-09-01,1983,1980,Ecuador,True,Casa,Goiânia,Brazil,Copa América,Copa América,5,0,5,Vitória,3
+1983-09-14,1983,1980,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,0,0,0,Empate,1
+1983-10-13,1983,1980,Paraguay,False,Fora,Asunción,Paraguay,Copa América,Copa América,1,1,0,Empate,1
+1983-10-20,1983,1980,Paraguay,True,Casa,Uberlândia,Brazil,Copa América,Copa América,0,0,0,Empate,1
+1983-10-27,1983,1980,Uruguay,False,Fora,Montevideo,Uruguay,Copa América,Copa América,0,2,-2,Derrota,0
+1983-11-04,1983,1980,Uruguay,True,Casa,Salvador,Brazil,Copa América,Copa América,1,1,0,Empate,1
+1984-06-10,1984,1980,England,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,2,-2,Derrota,0
+1984-06-17,1984,1980,Argentina,True,Casa,São Paulo,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1984-06-21,1984,1980,Uruguay,True,Casa,Curitiba,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1985-04-25,1985,1980,Colombia,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1985-04-28,1985,1980,Peru,True,Casa,Brasília,Brazil,Friendly,Amistoso,0,1,-1,Derrota,0
+1985-05-02,1985,1980,Uruguay,True,Casa,Recife,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1985-05-05,1985,1980,Argentina,True,Casa,Salvador,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1985-05-15,1985,1980,Colombia,False,Fora,Bogotá,Colombia,Friendly,Amistoso,0,1,-1,Derrota,0
+1985-05-21,1985,1980,Chile,False,Fora,Santiago,Chile,Friendly,Amistoso,1,2,-1,Derrota,0
+1985-06-02,1985,1980,Bolivia,False,Fora,Santa Cruz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+1985-06-08,1985,1980,Chile,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1985-06-16,1985,1980,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+1985-06-23,1985,1980,Paraguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+1985-06-30,1985,1980,Bolivia,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+1986-03-12,1986,1980,Germany,False,Fora,Frankfurt,Germany,Friendly,Amistoso,0,2,-2,Derrota,0
+1986-03-16,1986,1980,Hungary,False,Fora,Budapest,Hungary,Friendly,Amistoso,0,3,-3,Derrota,0
+1986-04-01,1986,1980,Peru,True,Casa,São Luís,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1986-04-08,1986,1980,German DR,True,Casa,Goiânia,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1986-04-17,1986,1980,Finland,True,Casa,Brasília,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1986-04-30,1986,1980,Yugoslavia,True,Casa,Recife,Brazil,Friendly,Amistoso,4,2,2,Vitória,3
+1986-05-07,1986,1980,Chile,True,Casa,Curitiba,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1986-06-01,1986,1980,Spain,False,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1986-06-06,1986,1980,Algeria,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1986-06-12,1986,1980,Northern Ireland,False,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+1986-06-16,1986,1980,Poland,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,4,0,4,Vitória,3
+1986-06-21,1986,1980,France,True,Neutro,Guadalajara,Mexico,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+1987-05-19,1987,1980,England,False,Fora,London,England,Rous Cup,Outros Torneios,1,1,0,Empate,1
+1987-05-23,1987,1980,Republic of Ireland,False,Fora,Dublin,Republic of Ireland,Friendly,Amistoso,0,1,-1,Derrota,0
+1987-05-26,1987,1980,Scotland,False,Fora,Glasgow,Scotland,Rous Cup,Outros Torneios,2,0,2,Vitória,3
+1987-05-28,1987,1980,Finland,False,Fora,Helsinki,Finland,Friendly,Amistoso,3,2,1,Vitória,3
+1987-06-01,1987,1980,Israel,False,Fora,Ramat Gan,Israel,Friendly,Amistoso,4,0,4,Vitória,3
+1987-06-21,1987,1980,Ecuador,True,Casa,Florianópolis,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1987-06-28,1987,1980,Venezuela,True,Neutro,Córdoba,Argentina,Copa América,Copa América,5,0,5,Vitória,3
+1987-07-03,1987,1980,Chile,False,Neutro,Córdoba,Argentina,Copa América,Copa América,0,4,-4,Derrota,0
+1987-12-09,1987,1980,Chile,True,Casa,Uberlândia,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1987-12-12,1987,1980,Germany,True,Casa,Brasília,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1988-07-07,1988,1980,Australia,False,Fora,Melbourne,Australia,Friendly,Amistoso,1,0,1,Vitória,3
+1988-07-10,1988,1980,Argentina,False,Neutro,Melbourne,Australia,Friendly,Amistoso,0,0,0,Empate,1
+1988-07-13,1988,1980,Saudi Arabia,True,Neutro,Melbourne,Australia,Friendly,Amistoso,4,1,3,Vitória,3
+1988-07-17,1988,1980,Australia,False,Fora,Sydney,Australia,Friendly,Amistoso,2,0,2,Vitória,3
+1988-07-28,1988,1980,Norway,False,Fora,Oslo,Norway,Friendly,Amistoso,1,1,0,Empate,1
+1988-08-03,1988,1980,Austria,False,Fora,Vienna,Austria,Friendly,Amistoso,2,0,2,Vitória,3
+1988-10-12,1988,1980,Belgium,False,Fora,Antwerp,Belgium,Friendly,Amistoso,2,1,1,Vitória,3
+1989-03-15,1989,1980,Ecuador,True,Casa,Cuiabá,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1989-04-12,1989,1980,Paraguay,True,Casa,Teresina,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1989-05-10,1989,1980,Peru,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,4,1,3,Vitória,3
+1989-05-24,1989,1980,Peru,False,Fora,Lima,Peru,Friendly,Amistoso,1,1,0,Empate,1
+1989-06-08,1989,1980,Portugal,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1989-06-16,1989,1980,Sweden,True,Neutro,Copenhagen,Denmark,Friendly,Amistoso,1,2,-1,Derrota,0
+1989-06-18,1989,1980,Denmark,False,Fora,Copenhagen,Denmark,Friendly,Amistoso,0,4,-4,Derrota,0
+1989-06-21,1989,1980,Switzerland,False,Fora,Basel,Switzerland,Friendly,Amistoso,0,1,-1,Derrota,0
+1989-07-01,1989,1980,Venezuela,True,Casa,Salvador,Brazil,Copa América,Copa América,3,1,2,Vitória,3
+1989-07-03,1989,1980,Peru,True,Casa,Salvador,Brazil,Copa América,Copa América,0,0,0,Empate,1
+1989-07-07,1989,1980,Colombia,True,Casa,Salvador,Brazil,Copa América,Copa América,0,0,0,Empate,1
+1989-07-09,1989,1980,Paraguay,True,Casa,Recife,Brazil,Copa América,Copa América,2,0,2,Vitória,3
+1989-07-12,1989,1980,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,2,0,2,Vitória,3
+1989-07-14,1989,1980,Paraguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,3,0,3,Vitória,3
+1989-07-16,1989,1980,Uruguay,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,0,1,Vitória,3
+1989-07-23,1989,1980,Japan,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1989-07-30,1989,1980,Venezuela,False,Fora,Caracas,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+1989-08-13,1989,1980,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+1989-08-20,1989,1980,Venezuela,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,6,0,6,Vitória,3
+1989-09-03,1989,1980,Chile,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+1989-10-14,1989,1980,Italy,False,Fora,Bologna,Italy,Friendly,Amistoso,1,0,1,Vitória,3
+1989-11-14,1989,1980,Yugoslavia,True,Casa,João Pessoa,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1989-12-20,1989,1980,Netherlands,False,Fora,Rotterdam,Netherlands,Friendly,Amistoso,1,0,1,Vitória,3
+1990-03-28,1990,1990,England,False,Fora,London,England,Friendly,Amistoso,0,1,-1,Derrota,0
+1990-05-05,1990,1990,Bulgaria,True,Casa,Campinas,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1990-05-13,1990,1990,German DR,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,3,3,0,Empate,1
+1990-06-10,1990,1990,Sweden,True,Neutro,Turin,Italy,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1990-06-16,1990,1990,Costa Rica,True,Neutro,Turin,Italy,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1990-06-20,1990,1990,Scotland,True,Neutro,Turin,Italy,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1990-06-24,1990,1990,Argentina,True,Neutro,Turin,Italy,FIFA World Cup,Copa do Mundo,0,1,-1,Derrota,0
+1990-09-12,1990,1990,Spain,False,Fora,Gijón,Spain,Friendly,Amistoso,0,3,-3,Derrota,0
+1990-11-08,1990,1990,Chile,True,Casa,Belém,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+1990-12-12,1990,1990,Mexico,False,Neutro,Los Angeles,United States,Friendly,Amistoso,0,0,0,Empate,1
+1991-02-27,1991,1990,Paraguay,True,Casa,Campo Grande,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1991-03-27,1991,1990,Argentina,False,Fora,Buenos Aires,Argentina,Friendly,Amistoso,3,3,0,Empate,1
+1991-05-28,1991,1990,Bulgaria,True,Casa,Uberlândia,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1991-06-27,1991,1990,Argentina,True,Casa,Curitiba,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1991-07-09,1991,1990,Bolivia,False,Neutro,Viña del Mar,Chile,Copa América,Copa América,2,1,1,Vitória,3
+1991-07-11,1991,1990,Uruguay,True,Neutro,Viña del Mar,Chile,Copa América,Copa América,1,1,0,Empate,1
+1991-07-13,1991,1990,Colombia,True,Neutro,Viña del Mar,Chile,Copa América,Copa América,0,2,-2,Derrota,0
+1991-07-15,1991,1990,Ecuador,True,Neutro,Viña del Mar,Chile,Copa América,Copa América,3,1,2,Vitória,3
+1991-07-17,1991,1990,Argentina,False,Neutro,Santiago,Chile,Copa América,Copa América,2,3,-1,Derrota,0
+1991-07-19,1991,1990,Colombia,True,Neutro,Santiago,Chile,Copa América,Copa América,2,0,2,Vitória,3
+1991-07-21,1991,1990,Chile,False,Fora,Santiago,Chile,Copa América,Copa América,2,0,2,Vitória,3
+1991-09-11,1991,1990,Wales,False,Fora,Cardiff,Wales,Friendly,Amistoso,0,1,-1,Derrota,0
+1991-10-30,1991,1990,Yugoslavia,True,Casa,Varginha,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1991-12-18,1991,1990,Czechoslovakia,True,Casa,Goiânia,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1992-02-26,1992,1990,United States,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1992-04-15,1992,1990,Finland,True,Casa,Cuiabá,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1992-04-30,1992,1990,Uruguay,False,Fora,Montevideo,Uruguay,Friendly,Amistoso,0,1,-1,Derrota,0
+1992-05-17,1992,1990,England,False,Fora,London,England,Friendly,Amistoso,1,1,0,Empate,1
+1992-07-31,1992,1990,Mexico,True,Neutro,Los Angeles,United States,Friendly,Amistoso,5,0,5,Vitória,3
+1992-08-02,1992,1990,United States,False,Fora,Los Angeles,United States,Friendly,Amistoso,1,0,1,Vitória,3
+1992-08-26,1992,1990,France,False,Fora,Paris,France,Friendly,Amistoso,2,0,2,Vitória,3
+1992-09-23,1992,1990,Costa Rica,True,Casa,Paranavaí,Brazil,Friendly,Amistoso,4,2,2,Vitória,3
+1992-11-25,1992,1990,Uruguay,True,Casa,Campina Grande,Brazil,Friendly,Amistoso,1,2,-1,Derrota,0
+1992-12-16,1992,1990,Germany,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1993-02-18,1993,1990,Argentina,False,Fora,Buenos Aires,Argentina,Friendly,Amistoso,1,1,0,Empate,1
+1993-03-17,1993,1990,Poland,True,Casa,Ribeirão Preto,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1993-06-06,1993,1990,United States,False,Fora,New Haven,United States,USA Cup,Outros Torneios,2,0,2,Vitória,3
+1993-06-10,1993,1990,Germany,True,Neutro,"Washington, D.C.",United States,USA Cup,Outros Torneios,3,3,0,Empate,1
+1993-06-13,1993,1990,England,True,Neutro,"Washington, D.C.",United States,USA Cup,Outros Torneios,1,1,0,Empate,1
+1993-06-18,1993,1990,Peru,True,Neutro,Cuenca,Ecuador,Copa América,Copa América,0,0,0,Empate,1
+1993-06-21,1993,1990,Chile,True,Neutro,Cuenca,Ecuador,Copa América,Copa América,2,3,-1,Derrota,0
+1993-06-24,1993,1990,Paraguay,True,Neutro,Cuenca,Ecuador,Copa América,Copa América,3,0,3,Vitória,3
+1993-06-27,1993,1990,Argentina,True,Neutro,Guayaquil,Ecuador,Copa América,Copa América,1,1,0,Empate,1
+1993-07-14,1993,1990,Paraguay,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1993-07-18,1993,1990,Ecuador,False,Fora,Guayaquil,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+1993-07-25,1993,1990,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,0,2,-2,Derrota,0
+1993-08-01,1993,1990,Venezuela,False,Fora,San Cristóbal,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,5,1,4,Vitória,3
+1993-08-08,1993,1990,Mexico,True,Casa,Maceió,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1993-08-15,1993,1990,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+1993-08-22,1993,1990,Ecuador,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+1993-08-29,1993,1990,Bolivia,True,Casa,Recife,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,6,0,6,Vitória,3
+1993-09-05,1993,1990,Venezuela,True,Casa,Belo Horizonte,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+1993-09-19,1993,1990,Uruguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+1993-11-17,1993,1990,Germany,False,Fora,Cologne,Germany,Friendly,Amistoso,1,2,-1,Derrota,0
+1993-12-16,1993,1990,Mexico,False,Fora,Guadalajara,Mexico,Friendly,Amistoso,1,0,1,Vitória,3
+1994-03-23,1994,1990,Argentina,True,Casa,Recife,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1994-05-04,1994,1990,Iceland,True,Casa,Florianópolis,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1994-06-05,1994,1990,Canada,False,Fora,Edmonton,Canada,Friendly,Amistoso,1,1,0,Empate,1
+1994-06-08,1994,1990,Honduras,False,Neutro,San Diego,United States,Friendly,Amistoso,8,2,6,Vitória,3
+1994-06-12,1994,1990,El Salvador,False,Neutro,Fresno,United States,Friendly,Amistoso,4,0,4,Vitória,3
+1994-06-20,1994,1990,Russia,True,Neutro,Palo Alto,United States,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+1994-06-24,1994,1990,Cameroon,True,Neutro,Palo Alto,United States,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+1994-06-28,1994,1990,Sweden,True,Neutro,Pontiac,United States,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+1994-07-04,1994,1990,United States,False,Fora,Palo Alto,United States,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1994-07-09,1994,1990,Netherlands,False,Neutro,Dallas,United States,FIFA World Cup,Copa do Mundo,3,2,1,Vitória,3
+1994-07-13,1994,1990,Sweden,False,Neutro,Pasadena,United States,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+1994-07-17,1994,1990,Italy,True,Neutro,Pasadena,United States,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+1994-12-23,1994,1990,Serbia,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1995-02-22,1995,1990,Slovakia,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,5,0,5,Vitória,3
+1995-03-29,1995,1990,Honduras,True,Casa,Goiânia,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1995-05-17,1995,1990,Israel,False,Fora,Ramat Gan,Israel,Friendly,Amistoso,2,1,1,Vitória,3
+1995-06-04,1995,1990,Sweden,True,Neutro,Birmingham,England,Friendly,Amistoso,1,0,1,Vitória,3
+1995-06-06,1995,1990,Japan,True,Neutro,Liverpool,England,Friendly,Amistoso,3,0,3,Vitória,3
+1995-06-11,1995,1990,England,False,Fora,London,England,Friendly,Amistoso,3,1,2,Vitória,3
+1995-06-29,1995,1990,Poland,True,Casa,Recife,Brazil,Friendly,Amistoso,2,1,1,Vitória,3
+1995-07-07,1995,1990,Ecuador,True,Neutro,Rivera,Uruguay,Copa América,Copa América,1,0,1,Vitória,3
+1995-07-10,1995,1990,Peru,True,Neutro,Rivera,Uruguay,Copa América,Copa América,2,0,2,Vitória,3
+1995-07-13,1995,1990,Colombia,True,Neutro,Rivera,Uruguay,Copa América,Copa América,3,0,3,Vitória,3
+1995-07-17,1995,1990,Argentina,True,Neutro,Rivera,Uruguay,Copa América,Copa América,2,2,0,Empate,1
+1995-07-20,1995,1990,United States,False,Neutro,Maldonado,Uruguay,Copa América,Copa América,1,0,1,Vitória,3
+1995-07-23,1995,1990,Uruguay,False,Fora,Montevideo,Uruguay,Copa América,Copa América,1,1,0,Empate,1
+1995-08-09,1995,1990,Japan,False,Fora,Tokyo,Japan,Friendly,Amistoso,5,1,4,Vitória,3
+1995-08-12,1995,1990,South Korea,False,Fora,Suwon,South Korea,Friendly,Amistoso,1,0,1,Vitória,3
+1995-10-11,1995,1990,Uruguay,True,Casa,Salvador,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1995-11-08,1995,1990,Argentina,False,Fora,Buenos Aires,Argentina,Friendly,Amistoso,1,0,1,Vitória,3
+1995-12-20,1995,1990,Colombia,True,Casa,Manaus,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1996-01-12,1996,1990,Canada,True,Neutro,Los Angeles,United States,Gold Cup,Outros Torneios,4,1,3,Vitória,3
+1996-01-14,1996,1990,Honduras,False,Neutro,Los Angeles,United States,Gold Cup,Outros Torneios,5,0,5,Vitória,3
+1996-01-18,1996,1990,United States,False,Fora,Los Angeles,United States,Gold Cup,Outros Torneios,1,0,1,Vitória,3
+1996-01-21,1996,1990,Mexico,False,Neutro,Los Angeles,United States,Gold Cup,Outros Torneios,0,2,-2,Derrota,0
+1996-03-27,1996,1990,Ghana,True,Casa,São José do Rio Preto,Brazil,Friendly,Amistoso,8,2,6,Vitória,3
+1996-04-24,1996,1990,South Africa,False,Fora,Johannesburg,South Africa,Friendly,Amistoso,3,2,1,Vitória,3
+1996-08-28,1996,1990,Russia,False,Fora,Moscow,Russia,Friendly,Amistoso,2,2,0,Empate,1
+1996-08-31,1996,1990,Netherlands,False,Fora,Amsterdam,Netherlands,Friendly,Amistoso,2,2,0,Empate,1
+1996-10-16,1996,1990,Lithuania,True,Casa,Teresina,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1996-11-13,1996,1990,Cameroon,True,Casa,Curitiba,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1996-12-18,1996,1990,Bosnia and Herzegovina,True,Casa,Manaus,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+1997-02-26,1997,1990,Poland,True,Casa,Goiânia,Brazil,Friendly,Amistoso,4,2,2,Vitória,3
+1997-04-02,1997,1990,Chile,True,Casa,Brasília,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+1997-04-30,1997,1990,Mexico,True,Neutro,Miami,United States,Friendly,Amistoso,4,0,4,Vitória,3
+1997-05-30,1997,1990,Norway,False,Fora,Oslo,Norway,Friendly,Amistoso,2,4,-2,Derrota,0
+1997-06-03,1997,1990,France,False,Fora,Lyon,France,Tournoi de France,Outros Torneios,1,1,0,Empate,1
+1997-06-08,1997,1990,Italy,False,Neutro,Lyon,France,Tournoi de France,Outros Torneios,3,3,0,Empate,1
+1997-06-10,1997,1990,England,False,Neutro,Paris,France,Tournoi de France,Outros Torneios,1,0,1,Vitória,3
+1997-06-13,1997,1990,Costa Rica,True,Neutro,Santa Cruz,Bolivia,Copa América,Copa América,5,0,5,Vitória,3
+1997-06-16,1997,1990,Mexico,True,Neutro,Santa Cruz,Bolivia,Copa América,Copa América,3,2,1,Vitória,3
+1997-06-19,1997,1990,Colombia,True,Neutro,Santa Cruz,Bolivia,Copa América,Copa América,2,0,2,Vitória,3
+1997-06-22,1997,1990,Paraguay,True,Neutro,Santa Cruz,Bolivia,Copa América,Copa América,2,0,2,Vitória,3
+1997-06-26,1997,1990,Peru,True,Neutro,Santa Cruz,Bolivia,Copa América,Copa América,7,0,7,Vitória,3
+1997-06-29,1997,1990,Bolivia,False,Fora,La Paz,Bolivia,Copa América,Copa América,3,1,2,Vitória,3
+1997-08-10,1997,1990,South Korea,False,Fora,Seoul,South Korea,Friendly,Amistoso,2,1,1,Vitória,3
+1997-08-13,1997,1990,Japan,False,Fora,Osaka,Japan,Friendly,Amistoso,3,0,3,Vitória,3
+1997-09-10,1997,1990,Ecuador,True,Casa,Salvador,Brazil,Friendly,Amistoso,4,2,2,Vitória,3
+1997-10-09,1997,1990,Morocco,True,Casa,Belém,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+1997-11-11,1997,1990,Wales,True,Casa,Brasília,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1997-12-07,1997,1990,South Africa,False,Fora,Johannesburg,South Africa,Friendly,Amistoso,2,1,1,Vitória,3
+1997-12-12,1997,1990,Saudi Arabia,False,Fora,Riyadh,Saudi Arabia,Confederations Cup,Copa das Confederações,3,0,3,Vitória,3
+1997-12-14,1997,1990,Australia,False,Neutro,Riyadh,Saudi Arabia,Confederations Cup,Copa das Confederações,0,0,0,Empate,1
+1997-12-16,1997,1990,Mexico,True,Neutro,Riyadh,Saudi Arabia,Confederations Cup,Copa das Confederações,3,2,1,Vitória,3
+1997-12-19,1997,1990,Czech Republic,True,Neutro,Riyadh,Saudi Arabia,Confederations Cup,Copa das Confederações,2,0,2,Vitória,3
+1997-12-21,1997,1990,Australia,True,Neutro,Riyadh,Saudi Arabia,Confederations Cup,Copa das Confederações,6,0,6,Vitória,3
+1998-02-03,1998,1990,Jamaica,True,Neutro,Miami,United States,Gold Cup,Outros Torneios,0,0,0,Empate,1
+1998-02-05,1998,1990,Guatemala,True,Neutro,Miami,United States,Gold Cup,Outros Torneios,1,1,0,Empate,1
+1998-02-08,1998,1990,El Salvador,False,Neutro,Los Angeles,United States,Gold Cup,Outros Torneios,4,0,4,Vitória,3
+1998-02-10,1998,1990,United States,False,Fora,Los Angeles,United States,Gold Cup,Outros Torneios,0,1,-1,Derrota,0
+1998-02-15,1998,1990,Jamaica,True,Neutro,Los Angeles,United States,Gold Cup,Outros Torneios,1,0,1,Vitória,3
+1998-03-25,1998,1990,Germany,False,Fora,Stuttgart,Germany,Friendly,Amistoso,2,1,1,Vitória,3
+1998-04-29,1998,1990,Argentina,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,0,1,-1,Derrota,0
+1998-06-03,1998,1990,Andorra,False,Neutro,Saint-Ouen-l'Aumône,France,Friendly,Amistoso,3,0,3,Vitória,3
+1998-06-10,1998,1990,Scotland,True,Neutro,Saint-Denis,France,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+1998-06-16,1998,1990,Morocco,True,Neutro,Nantes,France,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+1998-06-23,1998,1990,Norway,True,Neutro,Marseille,France,FIFA World Cup,Copa do Mundo,1,2,-1,Derrota,0
+1998-06-27,1998,1990,Chile,True,Neutro,Paris,France,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+1998-07-03,1998,1990,Denmark,True,Neutro,Nantes,France,FIFA World Cup,Copa do Mundo,3,2,1,Vitória,3
+1998-07-07,1998,1990,Netherlands,True,Neutro,Marseille,France,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+1998-07-12,1998,1990,France,False,Fora,Saint-Denis,France,FIFA World Cup,Copa do Mundo,0,3,-3,Derrota,0
+1998-09-23,1998,1990,Serbia,True,Casa,São Luís,Brazil,Friendly,Amistoso,1,1,0,Empate,1
+1998-10-14,1998,1990,Ecuador,True,Neutro,"Washington, D.C.",United States,Friendly,Amistoso,5,1,4,Vitória,3
+1998-11-18,1998,1990,Russia,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,5,1,4,Vitória,3
+1999-03-28,1999,1990,South Korea,False,Fora,Seoul,South Korea,Friendly,Amistoso,0,1,-1,Derrota,0
+1999-03-31,1999,1990,Japan,False,Fora,Tokyo,Japan,Friendly,Amistoso,2,0,2,Vitória,3
+1999-06-05,1999,1990,Netherlands,True,Casa,Salvador,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+1999-06-08,1999,1990,Netherlands,True,Casa,Goiânia,Brazil,Friendly,Amistoso,3,1,2,Vitória,3
+1999-06-26,1999,1990,Latvia,True,Casa,Curitiba,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+1999-06-30,1999,1990,Venezuela,True,Neutro,Ciudad del Este,Paraguay,Copa América,Copa América,7,0,7,Vitória,3
+1999-07-03,1999,1990,Mexico,True,Neutro,Ciudad del Este,Paraguay,Copa América,Copa América,2,1,1,Vitória,3
+1999-07-06,1999,1990,Chile,True,Neutro,Ciudad del Este,Paraguay,Copa América,Copa América,1,0,1,Vitória,3
+1999-07-11,1999,1990,Argentina,True,Neutro,Ciudad del Este,Paraguay,Copa América,Copa América,2,1,1,Vitória,3
+1999-07-14,1999,1990,Mexico,False,Neutro,Ciudad del Este,Paraguay,Copa América,Copa América,2,0,2,Vitória,3
+1999-07-18,1999,1990,Uruguay,True,Neutro,Asunción,Paraguay,Copa América,Copa América,3,0,3,Vitória,3
+1999-07-24,1999,1990,Germany,True,Neutro,Guadalajara,Mexico,Confederations Cup,Copa das Confederações,4,0,4,Vitória,3
+1999-07-28,1999,1990,United States,True,Neutro,Guadalajara,Mexico,Confederations Cup,Copa das Confederações,1,0,1,Vitória,3
+1999-07-30,1999,1990,New Zealand,False,Neutro,Guadalajara,Mexico,Confederations Cup,Copa das Confederações,2,0,2,Vitória,3
+1999-08-01,1999,1990,Saudi Arabia,True,Neutro,Guadalajara,Mexico,Confederations Cup,Copa das Confederações,8,2,6,Vitória,3
+1999-08-04,1999,1990,Mexico,False,Fora,Mexico City,Mexico,Confederations Cup,Copa das Confederações,3,4,-1,Derrota,0
+1999-09-04,1999,1990,Argentina,False,Fora,Buenos Aires,Argentina,Friendly,Amistoso,0,2,-2,Derrota,0
+1999-09-07,1999,1990,Argentina,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,4,2,2,Vitória,3
+1999-10-09,1999,1990,Netherlands,False,Fora,Amsterdam,Netherlands,Friendly,Amistoso,2,2,0,Empate,1
+1999-11-13,1999,1990,Spain,False,Fora,Vigo,Spain,Friendly,Amistoso,0,0,0,Empate,1
+2000-02-23,2000,2000,Thailand,False,Fora,Bangkok,Thailand,King's Cup,Outros Torneios,7,0,7,Vitória,3
+2000-03-28,2000,2000,Colombia,False,Fora,Bogotá,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2000-04-26,2000,2000,Ecuador,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,2,1,Vitória,3
+2000-05-23,2000,2000,Wales,False,Fora,Cardiff,Wales,Friendly,Amistoso,3,0,3,Vitória,3
+2000-05-27,2000,2000,England,False,Fora,London,England,Friendly,Amistoso,1,1,0,Empate,1
+2000-06-04,2000,2000,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2000-06-28,2000,2000,Uruguay,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2000-07-18,2000,2000,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,1,2,-1,Derrota,0
+2000-07-26,2000,2000,Argentina,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+2000-08-15,2000,2000,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,0,3,-3,Derrota,0
+2000-09-03,2000,2000,Bolivia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+2000-10-08,2000,2000,Venezuela,False,Fora,Maracaibo,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,6,0,6,Vitória,3
+2000-11-15,2000,2000,Colombia,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2001-03-03,2001,2000,United States,False,Fora,Pasadena,United States,Friendly,Amistoso,2,1,1,Vitória,3
+2001-03-07,2001,2000,Mexico,False,Fora,Guadalajara,Mexico,Friendly,Amistoso,3,3,0,Empate,1
+2001-03-28,2001,2000,Ecuador,False,Fora,Quito,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,0,1,-1,Derrota,0
+2001-04-25,2001,2000,Peru,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2001-05-31,2001,2000,Cameroon,True,Neutro,Kashima,Japan,Confederations Cup,Copa das Confederações,2,0,2,Vitória,3
+2001-06-02,2001,2000,Canada,False,Neutro,Kashima,Japan,Confederations Cup,Copa das Confederações,0,0,0,Empate,1
+2001-06-04,2001,2000,Japan,False,Fora,Kashima,Japan,Confederations Cup,Copa das Confederações,0,0,0,Empate,1
+2001-06-07,2001,2000,France,False,Neutro,Suwon,South Korea,Confederations Cup,Copa das Confederações,1,2,-1,Derrota,0
+2001-06-09,2001,2000,Australia,False,Neutro,Ulsan,South Korea,Confederations Cup,Copa das Confederações,0,1,-1,Derrota,0
+2001-07-01,2001,2000,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,0,1,-1,Derrota,0
+2001-07-12,2001,2000,Mexico,True,Neutro,Cali,Colombia,Copa América,Copa América,0,1,-1,Derrota,0
+2001-07-15,2001,2000,Peru,True,Neutro,Cali,Colombia,Copa América,Copa América,2,0,2,Vitória,3
+2001-07-18,2001,2000,Paraguay,True,Neutro,Cali,Colombia,Copa América,Copa América,3,1,2,Vitória,3
+2001-07-23,2001,2000,Honduras,True,Neutro,Manizales,Colombia,Copa América,Copa América,0,2,-2,Derrota,0
+2001-08-09,2001,2000,Panama,True,Casa,Curitiba,Brazil,Friendly,Amistoso,5,0,5,Vitória,3
+2001-08-15,2001,2000,Paraguay,True,Casa,Porto Alegre,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2001-09-05,2001,2000,Argentina,False,Fora,Buenos Aires,Argentina,FIFA World Cup qualification,Eliminatórias da Copa,1,2,-1,Derrota,0
+2001-10-07,2001,2000,Chile,True,Casa,Curitiba,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2001-11-07,2001,2000,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,1,3,-2,Derrota,0
+2001-11-14,2001,2000,Venezuela,True,Casa,São Luís,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2002-01-31,2002,2000,Bolivia,True,Casa,Goiânia,Brazil,Friendly,Amistoso,6,0,6,Vitória,3
+2002-02-06,2002,2000,Saudi Arabia,False,Fora,Riyadh,Saudi Arabia,Friendly,Amistoso,1,0,1,Vitória,3
+2002-03-07,2002,2000,Iceland,True,Casa,Cuiabá,Brazil,Friendly,Amistoso,6,1,5,Vitória,3
+2002-03-27,2002,2000,Serbia,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+2002-04-17,2002,2000,Portugal,False,Fora,Lisbon,Portugal,Friendly,Amistoso,1,1,0,Empate,1
+2002-05-18,2002,2000,Catalonia,False,Fora,Barcelona,Spain,Friendly,Amistoso,3,1,2,Vitória,3
+2002-05-25,2002,2000,Malaysia,False,Fora,Kuala Lumpur,Malaysia,Friendly,Amistoso,4,0,4,Vitória,3
+2002-06-03,2002,2000,Turkey,True,Neutro,Ulsan,South Korea,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+2002-06-08,2002,2000,China,True,Neutro,Seogwipo,South Korea,FIFA World Cup,Copa do Mundo,4,0,4,Vitória,3
+2002-06-13,2002,2000,Costa Rica,False,Neutro,Suwon,South Korea,FIFA World Cup,Copa do Mundo,5,2,3,Vitória,3
+2002-06-17,2002,2000,Belgium,True,Neutro,Kobe,Japan,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2002-06-21,2002,2000,England,False,Neutro,Fukuroi,Japan,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+2002-06-26,2002,2000,Turkey,True,Neutro,Saitama,Japan,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+2002-06-30,2002,2000,Germany,False,Neutro,Yokohama,Japan,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2002-08-21,2002,2000,Paraguay,True,Casa,Fortaleza,Brazil,Friendly,Amistoso,0,1,-1,Derrota,0
+2002-11-20,2002,2000,South Korea,False,Fora,Seoul,South Korea,Friendly,Amistoso,3,2,1,Vitória,3
+2003-02-12,2003,2000,China,False,Fora,Guangzhou,China,Friendly,Amistoso,0,0,0,Empate,1
+2003-03-29,2003,2000,Portugal,False,Fora,Porto,Portugal,Friendly,Amistoso,1,2,-1,Derrota,0
+2003-04-30,2003,2000,Mexico,False,Fora,Guadalajara,Mexico,Friendly,Amistoso,0,0,0,Empate,1
+2003-06-11,2003,2000,Nigeria,False,Fora,Abuja,Nigeria,Friendly,Amistoso,3,0,3,Vitória,3
+2003-06-19,2003,2000,Cameroon,True,Neutro,Saint-Denis,France,Confederations Cup,Copa das Confederações,0,1,-1,Derrota,0
+2003-06-21,2003,2000,United States,True,Neutro,Lyon,France,Confederations Cup,Copa das Confederações,1,0,1,Vitória,3
+2003-06-23,2003,2000,Turkey,True,Neutro,Saint-Étienne,France,Confederations Cup,Copa das Confederações,2,2,0,Empate,1
+2003-07-13,2003,2000,Mexico,False,Fora,Mexico City,Mexico,Gold Cup,Outros Torneios,0,1,-1,Derrota,0
+2003-07-15,2003,2000,Honduras,True,Neutro,Mexico City,Mexico,Gold Cup,Outros Torneios,2,1,1,Vitória,3
+2003-07-19,2003,2000,Colombia,False,Neutro,Miami,United States,Gold Cup,Outros Torneios,2,0,2,Vitória,3
+2003-07-23,2003,2000,United States,False,Fora,Miami,United States,Gold Cup,Outros Torneios,2,1,1,Vitória,3
+2003-07-27,2003,2000,Mexico,False,Fora,Mexico City,Mexico,Gold Cup,Outros Torneios,0,1,-1,Derrota,0
+2003-09-07,2003,2000,Colombia,False,Fora,Barranquilla,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+2003-09-10,2003,2000,Ecuador,True,Casa,Manaus,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2003-10-12,2003,2000,Jamaica,True,Neutro,Leicester,England,Friendly,Amistoso,1,0,1,Vitória,3
+2003-11-16,2003,2000,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2003-11-19,2003,2000,Uruguay,True,Casa,Curitiba,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,3,0,Empate,1
+2004-02-18,2004,2000,Republic of Ireland,False,Fora,Dublin,Republic of Ireland,Friendly,Amistoso,0,0,0,Empate,1
+2004-03-31,2004,2000,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2004-04-28,2004,2000,Hungary,False,Fora,Budapest,Hungary,Friendly,Amistoso,4,1,3,Vitória,3
+2004-05-20,2004,2000,France,False,Fora,Saint-Denis,France,Friendly,Amistoso,0,0,0,Empate,1
+2004-05-25,2004,2000,Catalonia,False,Fora,Barcelona,Spain,Friendly,Amistoso,5,2,3,Vitória,3
+2004-06-02,2004,2000,Argentina,True,Casa,Belo Horizonte,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+2004-06-06,2004,2000,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2004-07-08,2004,2000,Chile,True,Neutro,Arequipa,Peru,Copa América,Copa América,1,0,1,Vitória,3
+2004-07-11,2004,2000,Costa Rica,True,Neutro,Arequipa,Peru,Copa América,Copa América,4,1,3,Vitória,3
+2004-07-14,2004,2000,Paraguay,True,Neutro,Arequipa,Peru,Copa América,Copa América,1,2,-1,Derrota,0
+2004-07-18,2004,2000,Mexico,False,Neutro,Piura,Peru,Copa América,Copa América,4,0,4,Vitória,3
+2004-07-21,2004,2000,Uruguay,False,Neutro,Lima,Peru,Copa América,Copa América,1,1,0,Empate,1
+2004-07-25,2004,2000,Argentina,False,Neutro,Lima,Peru,Copa América,Copa América,2,2,0,Empate,1
+2004-08-18,2004,2000,Haiti,False,Fora,Port-au-Prince,Haiti,Friendly,Amistoso,6,0,6,Vitória,3
+2004-09-05,2004,2000,Bolivia,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+2004-09-08,2004,2000,Germany,False,Fora,Berlin,Germany,Friendly,Amistoso,1,1,0,Empate,1
+2004-10-09,2004,2000,Venezuela,False,Fora,Maracaibo,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,5,2,3,Vitória,3
+2004-10-13,2004,2000,Colombia,True,Casa,Maceió,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2004-11-17,2004,2000,Ecuador,False,Fora,Quito,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,0,1,-1,Derrota,0
+2005-02-09,2005,2000,Hong Kong,False,Fora,So Kon Po,Hong Kong,Lunar New Year Cup,Outros Torneios,7,1,6,Vitória,3
+2005-03-27,2005,2000,Peru,True,Casa,Goiânia,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2005-03-30,2005,2000,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2005-04-27,2005,2000,Guatemala,True,Casa,São Paulo,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+2005-06-05,2005,2000,Paraguay,True,Casa,Porto Alegre,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,1,3,Vitória,3
+2005-06-08,2005,2000,Argentina,False,Fora,Buenos Aires,Argentina,FIFA World Cup qualification,Eliminatórias da Copa,1,3,-2,Derrota,0
+2005-06-16,2005,2000,Greece,True,Neutro,Leipzig,Germany,Confederations Cup,Copa das Confederações,3,0,3,Vitória,3
+2005-06-19,2005,2000,Mexico,False,Neutro,Hanover,Germany,Confederations Cup,Copa das Confederações,0,1,-1,Derrota,0
+2005-06-22,2005,2000,Japan,False,Neutro,Cologne,Germany,Confederations Cup,Copa das Confederações,2,2,0,Empate,1
+2005-06-25,2005,2000,Germany,False,Fora,Nuremberg,Germany,Confederations Cup,Copa das Confederações,3,2,1,Vitória,3
+2005-06-29,2005,2000,Argentina,True,Neutro,Frankfurt,Germany,Confederations Cup,Copa das Confederações,4,1,3,Vitória,3
+2005-08-17,2005,2000,Croatia,False,Fora,Split,Croatia,Friendly,Amistoso,1,1,0,Empate,1
+2005-09-04,2005,2000,Chile,True,Casa,Brasília,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+2005-10-09,2005,2000,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2005-10-12,2005,2000,Venezuela,True,Casa,Belém,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2005-11-12,2005,2000,United Arab Emirates,False,Fora,Abu Dhabi,United Arab Emirates,Friendly,Amistoso,8,0,8,Vitória,3
+2006-03-01,2006,2000,Russia,False,Fora,Moscow,Russia,Friendly,Amistoso,1,0,1,Vitória,3
+2006-06-04,2006,2000,New Zealand,True,Neutro,Geneva,Switzerland,Friendly,Amistoso,4,0,4,Vitória,3
+2006-06-13,2006,2000,Croatia,True,Neutro,Berlin,Germany,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+2006-06-18,2006,2000,Australia,True,Neutro,Munich,Germany,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2006-06-22,2006,2000,Japan,False,Neutro,Dortmund,Germany,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+2006-06-27,2006,2000,Ghana,True,Neutro,Dortmund,Germany,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+2006-07-01,2006,2000,France,True,Neutro,Frankfurt,Germany,FIFA World Cup,Copa do Mundo,0,1,-1,Derrota,0
+2006-08-16,2006,2000,Norway,False,Fora,Oslo,Norway,Friendly,Amistoso,1,1,0,Empate,1
+2006-09-03,2006,2000,Argentina,False,Neutro,London,England,Friendly,Amistoso,3,0,3,Vitória,3
+2006-09-05,2006,2000,Wales,False,Neutro,London,England,Friendly,Amistoso,2,0,2,Vitória,3
+2006-10-10,2006,2000,Ecuador,True,Neutro,Solna,Sweden,Friendly,Amistoso,2,1,1,Vitória,3
+2006-11-15,2006,2000,Switzerland,False,Fora,Basel,Switzerland,Friendly,Amistoso,2,1,1,Vitória,3
+2007-02-06,2007,2000,Portugal,False,Neutro,London,England,Friendly,Amistoso,0,2,-2,Derrota,0
+2007-03-24,2007,2000,Chile,True,Neutro,Gothenburg,Sweden,Friendly,Amistoso,4,0,4,Vitória,3
+2007-03-27,2007,2000,Ghana,True,Neutro,Solna,Sweden,Friendly,Amistoso,1,0,1,Vitória,3
+2007-06-01,2007,2000,England,False,Fora,London,England,Friendly,Amistoso,1,1,0,Empate,1
+2007-06-05,2007,2000,Turkey,False,Neutro,Dortmund,Germany,Friendly,Amistoso,0,0,0,Empate,1
+2007-06-27,2007,2000,Mexico,True,Neutro,Puerto Ordaz,Venezuela,Copa América,Copa América,0,2,-2,Derrota,0
+2007-07-01,2007,2000,Chile,True,Neutro,Maturín,Venezuela,Copa América,Copa América,3,0,3,Vitória,3
+2007-07-04,2007,2000,Ecuador,True,Neutro,Puerto la Cruz,Venezuela,Copa América,Copa América,1,0,1,Vitória,3
+2007-07-07,2007,2000,Chile,False,Neutro,Puerto la Cruz,Venezuela,Copa América,Copa América,6,1,5,Vitória,3
+2007-07-10,2007,2000,Uruguay,False,Neutro,Maracaibo,Venezuela,Copa América,Copa América,2,2,0,Empate,1
+2007-07-15,2007,2000,Argentina,True,Neutro,Maracaibo,Venezuela,Copa América,Copa América,3,0,3,Vitória,3
+2007-08-22,2007,2000,Algeria,False,Neutro,Montpellier,France,Friendly,Amistoso,2,0,2,Vitória,3
+2007-09-09,2007,2000,United States,False,Fora,Chicago,United States,Friendly,Amistoso,4,2,2,Vitória,3
+2007-09-12,2007,2000,Mexico,False,Neutro,Foxborough,United States,Friendly,Amistoso,3,1,2,Vitória,3
+2007-10-14,2007,2000,Colombia,False,Fora,Bogotá,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2007-10-17,2007,2000,Ecuador,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+2007-11-18,2007,2000,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2007-11-21,2007,2000,Uruguay,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+2008-02-06,2008,2000,Republic of Ireland,False,Fora,Dublin,Republic of Ireland,Friendly,Amistoso,1,0,1,Vitória,3
+2008-03-26,2008,2000,Sweden,True,Neutro,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+2008-05-31,2008,2000,Canada,True,Neutro,Seattle,United States,Friendly,Amistoso,3,2,1,Vitória,3
+2008-06-06,2008,2000,Venezuela,True,Neutro,Foxborough,United States,Friendly,Amistoso,0,2,-2,Derrota,0
+2008-06-15,2008,2000,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,0,2,-2,Derrota,0
+2008-06-18,2008,2000,Argentina,True,Casa,Belo Horizonte,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2008-09-07,2008,2000,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2008-09-10,2008,2000,Bolivia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2008-10-12,2008,2000,Venezuela,False,Fora,San Cristóbal,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+2008-10-15,2008,2000,Colombia,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2008-11-19,2008,2000,Portugal,True,Casa,Gama,Brazil,Friendly,Amistoso,6,2,4,Vitória,3
+2009-02-10,2009,2000,Italy,True,Neutro,London,England,Friendly,Amistoso,2,0,2,Vitória,3
+2009-03-29,2009,2000,Ecuador,False,Fora,Quito,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2009-04-01,2009,2000,Peru,True,Casa,Porto Alegre,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2009-06-06,2009,2000,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+2009-06-10,2009,2000,Paraguay,True,Casa,Recife,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+2009-06-15,2009,2000,Egypt,True,Neutro,Bloemfontein,South Africa,Confederations Cup,Copa das Confederações,4,3,1,Vitória,3
+2009-06-18,2009,2000,United States,False,Neutro,Pretoria,South Africa,Confederations Cup,Copa das Confederações,3,0,3,Vitória,3
+2009-06-21,2009,2000,Italy,False,Neutro,Pretoria,South Africa,Confederations Cup,Copa das Confederações,3,0,3,Vitória,3
+2009-06-25,2009,2000,South Africa,False,Fora,Johannesburg,South Africa,Confederations Cup,Copa das Confederações,1,0,1,Vitória,3
+2009-06-28,2009,2000,United States,False,Neutro,Johannesburg,South Africa,Confederations Cup,Copa das Confederações,3,2,1,Vitória,3
+2009-08-12,2009,2000,Estonia,False,Fora,Tallinn,Estonia,Friendly,Amistoso,1,0,1,Vitória,3
+2009-09-05,2009,2000,Argentina,False,Fora,Rosario,Argentina,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+2009-09-09,2009,2000,Chile,True,Casa,Salvador,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,2,2,Vitória,3
+2009-10-11,2009,2000,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,1,2,-1,Derrota,0
+2009-10-14,2009,2000,Venezuela,True,Casa,Campo Grande,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2009-11-14,2009,2000,England,True,Neutro,Doha,Qatar,Friendly,Amistoso,1,0,1,Vitória,3
+2009-11-17,2009,2000,Oman,False,Fora,Muscat,Oman,Friendly,Amistoso,2,0,2,Vitória,3
+2010-03-02,2010,2010,Republic of Ireland,False,Neutro,London,England,Friendly,Amistoso,2,0,2,Vitória,3
+2010-06-02,2010,2010,Zimbabwe,False,Fora,Harare,Zimbabwe,Friendly,Amistoso,3,0,3,Vitória,3
+2010-06-07,2010,2010,Tanzania,False,Fora,Dar es Salaam,Tanzania,Friendly,Amistoso,5,1,4,Vitória,3
+2010-06-15,2010,2010,North Korea,True,Neutro,Johannesburg,South Africa,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+2010-06-20,2010,2010,Ivory Coast,True,Neutro,Johannesburg,South Africa,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+2010-06-25,2010,2010,Portugal,False,Neutro,Durban,South Africa,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+2010-06-28,2010,2010,Chile,True,Neutro,Johannesburg,South Africa,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+2010-07-02,2010,2010,Netherlands,False,Neutro,Port Elizabeth,South Africa,FIFA World Cup,Copa do Mundo,1,2,-1,Derrota,0
+2010-08-10,2010,2010,United States,False,Fora,East Rutherford,United States,Friendly,Amistoso,2,0,2,Vitória,3
+2010-10-07,2010,2010,Iran,False,Neutro,Abu Dhabi,United Arab Emirates,Friendly,Amistoso,3,0,3,Vitória,3
+2010-10-11,2010,2010,Ukraine,True,Neutro,Derby,England,Friendly,Amistoso,2,0,2,Vitória,3
+2010-11-17,2010,2010,Argentina,False,Neutro,Doha,Qatar,Friendly,Amistoso,0,1,-1,Derrota,0
+2011-02-09,2011,2010,France,False,Fora,Saint-Denis,France,Friendly,Amistoso,0,1,-1,Derrota,0
+2011-03-27,2011,2010,Scotland,True,Neutro,London,England,Friendly,Amistoso,2,0,2,Vitória,3
+2011-06-04,2011,2010,Netherlands,True,Casa,Goiânia,Brazil,Friendly,Amistoso,0,0,0,Empate,1
+2011-06-07,2011,2010,Romania,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+2011-07-03,2011,2010,Venezuela,True,Neutro,La Plata,Argentina,Copa América,Copa América,0,0,0,Empate,1
+2011-07-09,2011,2010,Paraguay,True,Neutro,Córdoba,Argentina,Copa América,Copa América,2,2,0,Empate,1
+2011-07-13,2011,2010,Ecuador,True,Neutro,Córdoba,Argentina,Copa América,Copa América,4,2,2,Vitória,3
+2011-07-17,2011,2010,Paraguay,True,Neutro,La Plata,Argentina,Copa América,Copa América,0,0,0,Empate,1
+2011-08-10,2011,2010,Germany,False,Fora,Stuttgart,Germany,Friendly,Amistoso,2,3,-1,Derrota,0
+2011-09-05,2011,2010,Ghana,True,Neutro,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+2011-09-14,2011,2010,Argentina,False,Fora,Córdoba,Argentina,Superclásico de las Américas,Outros Torneios,0,0,0,Empate,1
+2011-09-28,2011,2010,Argentina,True,Casa,Belém,Brazil,Superclásico de las Américas,Outros Torneios,2,0,2,Vitória,3
+2011-10-07,2011,2010,Costa Rica,False,Fora,San José,Costa Rica,Friendly,Amistoso,1,0,1,Vitória,3
+2011-10-11,2011,2010,Mexico,False,Fora,Torreón,Mexico,Friendly,Amistoso,2,1,1,Vitória,3
+2011-11-10,2011,2010,Gabon,False,Fora,Libreville,Gabon,Friendly,Amistoso,2,0,2,Vitória,3
+2011-11-14,2011,2010,Egypt,True,Neutro,Al Rayyan,Qatar,Friendly,Amistoso,2,0,2,Vitória,3
+2012-02-28,2012,2010,Bosnia and Herzegovina,False,Neutro,St. Gallen,Switzerland,Friendly,Amistoso,2,1,1,Vitória,3
+2012-05-26,2012,2010,Denmark,False,Neutro,Hamburg,Germany,Friendly,Amistoso,3,1,2,Vitória,3
+2012-05-30,2012,2010,United States,False,Fora,"Washington, D.C.",United States,Friendly,Amistoso,4,1,3,Vitória,3
+2012-06-03,2012,2010,Mexico,False,Neutro,Arlington,United States,Friendly,Amistoso,0,2,-2,Derrota,0
+2012-06-09,2012,2010,Argentina,True,Neutro,East Rutherford,United States,Friendly,Amistoso,3,4,-1,Derrota,0
+2012-08-15,2012,2010,Sweden,False,Fora,Solna,Sweden,Friendly,Amistoso,3,0,3,Vitória,3
+2012-09-07,2012,2010,South Africa,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+2012-09-10,2012,2010,China,True,Casa,Recife,Brazil,Friendly,Amistoso,8,0,8,Vitória,3
+2012-09-19,2012,2010,Argentina,True,Casa,Goiânia,Brazil,Superclásico de las Américas,Outros Torneios,2,1,1,Vitória,3
+2012-10-11,2012,2010,Iraq,True,Neutro,Malmö,Sweden,Friendly,Amistoso,6,0,6,Vitória,3
+2012-10-16,2012,2010,Japan,False,Neutro,Wrocław,Poland,Friendly,Amistoso,4,0,4,Vitória,3
+2012-11-14,2012,2010,Colombia,True,Neutro,East Rutherford,United States,Friendly,Amistoso,1,1,0,Empate,1
+2012-11-21,2012,2010,Argentina,False,Fora,Buenos Aires,Argentina,Superclásico de las Américas,Outros Torneios,1,2,-1,Derrota,0
+2013-02-06,2013,2010,England,False,Fora,London,England,Friendly,Amistoso,1,2,-1,Derrota,0
+2013-03-21,2013,2010,Italy,False,Neutro,Geneva,Switzerland,Friendly,Amistoso,2,2,0,Empate,1
+2013-03-25,2013,2010,Russia,False,Neutro,London,England,Friendly,Amistoso,1,1,0,Empate,1
+2013-04-06,2013,2010,Bolivia,False,Fora,Santa Cruz,Bolivia,Friendly,Amistoso,4,0,4,Vitória,3
+2013-04-24,2013,2010,Chile,True,Casa,Belo Horizonte,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+2013-06-02,2013,2010,England,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,2,2,0,Empate,1
+2013-06-09,2013,2010,France,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,3,0,3,Vitória,3
+2013-06-15,2013,2010,Japan,True,Casa,Brasília,Brazil,Confederations Cup,Copa das Confederações,3,0,3,Vitória,3
+2013-06-19,2013,2010,Mexico,True,Casa,Fortaleza,Brazil,Confederations Cup,Copa das Confederações,2,0,2,Vitória,3
+2013-06-22,2013,2010,Italy,True,Casa,Salvador,Brazil,Confederations Cup,Copa das Confederações,4,2,2,Vitória,3
+2013-06-26,2013,2010,Uruguay,True,Casa,Belo Horizonte,Brazil,Confederations Cup,Copa das Confederações,2,1,1,Vitória,3
+2013-06-30,2013,2010,Spain,True,Casa,Rio de Janeiro,Brazil,Confederations Cup,Copa das Confederações,3,0,3,Vitória,3
+2013-08-14,2013,2010,Switzerland,False,Fora,Basel,Switzerland,Friendly,Amistoso,0,1,-1,Derrota,0
+2013-09-07,2013,2010,Australia,True,Casa,Brasília,Brazil,Friendly,Amistoso,6,0,6,Vitória,3
+2013-09-10,2013,2010,Portugal,True,Neutro,Foxborough,United States,Friendly,Amistoso,3,1,2,Vitória,3
+2013-10-12,2013,2010,South Korea,False,Fora,Seoul,South Korea,Friendly,Amistoso,2,0,2,Vitória,3
+2013-10-15,2013,2010,Zambia,True,Neutro,Beijing,China,Friendly,Amistoso,2,0,2,Vitória,3
+2013-11-16,2013,2010,Honduras,False,Neutro,Miami Gardens,United States,Friendly,Amistoso,5,0,5,Vitória,3
+2013-11-19,2013,2010,Chile,True,Neutro,Toronto,Canada,Friendly,Amistoso,2,1,1,Vitória,3
+2014-03-05,2014,2010,South Africa,False,Fora,Johannesburg,South Africa,Friendly,Amistoso,5,0,5,Vitória,3
+2014-06-03,2014,2010,Panama,True,Casa,Goiânia,Brazil,Friendly,Amistoso,4,0,4,Vitória,3
+2014-06-06,2014,2010,Serbia,True,Casa,São Paulo,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+2014-06-12,2014,2010,Croatia,True,Casa,São Paulo,Brazil,FIFA World Cup,Copa do Mundo,3,1,2,Vitória,3
+2014-06-17,2014,2010,Mexico,True,Casa,Fortaleza,Brazil,FIFA World Cup,Copa do Mundo,0,0,0,Empate,1
+2014-06-23,2014,2010,Cameroon,True,Casa,Brasília,Brazil,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+2014-06-28,2014,2010,Chile,True,Casa,Belo Horizonte,Brazil,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+2014-07-04,2014,2010,Colombia,True,Casa,Fortaleza,Brazil,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
+2014-07-08,2014,2010,Germany,True,Casa,Belo Horizonte,Brazil,FIFA World Cup,Copa do Mundo,1,7,-6,Derrota,0
+2014-07-12,2014,2010,Netherlands,True,Casa,Brasília,Brazil,FIFA World Cup,Copa do Mundo,0,3,-3,Derrota,0
+2014-09-05,2014,2010,Colombia,True,Neutro,Miami Gardens,United States,Friendly,Amistoso,1,0,1,Vitória,3
+2014-10-11,2014,2010,Argentina,False,Neutro,Beijing,China,Superclásico de las Américas,Outros Torneios,2,0,2,Vitória,3
+2014-10-14,2014,2010,Japan,False,Neutro,Kallang,Singapore,Friendly,Amistoso,4,0,4,Vitória,3
+2014-11-12,2014,2010,Turkey,False,Fora,Istanbul,Turkey,Friendly,Amistoso,4,0,4,Vitória,3
+2014-11-18,2014,2010,Austria,False,Fora,Vienna,Austria,Friendly,Amistoso,2,1,1,Vitória,3
+2015-03-26,2015,2010,France,False,Fora,Saint-Denis,France,Friendly,Amistoso,3,1,2,Vitória,3
+2015-03-29,2015,2010,Chile,True,Neutro,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+2015-06-07,2015,2010,Mexico,True,Casa,São Paulo,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+2015-06-10,2015,2010,Honduras,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+2015-06-14,2015,2010,Peru,True,Neutro,Temuco,Chile,Copa América,Copa América,2,1,1,Vitória,3
+2015-06-17,2015,2010,Colombia,True,Neutro,Santiago,Chile,Copa América,Copa América,0,1,-1,Derrota,0
+2015-06-21,2015,2010,Venezuela,True,Neutro,Santiago,Chile,Copa América,Copa América,2,1,1,Vitória,3
+2015-06-27,2015,2010,Paraguay,True,Neutro,Concepción,Chile,Copa América,Copa América,1,1,0,Empate,1
+2015-09-05,2015,2010,Costa Rica,False,Neutro,Harrison,United States,Friendly,Amistoso,1,0,1,Vitória,3
+2015-09-08,2015,2010,United States,False,Fora,Foxborough,United States,Friendly,Amistoso,4,1,3,Vitória,3
+2015-10-08,2015,2010,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,0,2,-2,Derrota,0
+2015-10-13,2015,2010,Venezuela,True,Casa,Fortaleza,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+2015-11-13,2015,2010,Argentina,False,Fora,Buenos Aires,Argentina,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2015-11-17,2015,2010,Peru,True,Casa,Salvador,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2016-03-25,2016,2010,Uruguay,True,Casa,Recife,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,2,0,Empate,1
+2016-03-29,2016,2010,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,2,2,0,Empate,1
+2016-06-04,2016,2010,Ecuador,True,Neutro,Pasadena,United States,Copa América,Copa América,0,0,0,Empate,1
+2016-06-08,2016,2010,Haiti,True,Neutro,Orlando,United States,Copa América,Copa América,7,1,6,Vitória,3
+2016-06-12,2016,2010,Peru,True,Neutro,Foxborough,United States,Copa América,Copa América,0,1,-1,Derrota,0
+2016-09-01,2016,2010,Ecuador,False,Fora,Quito,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2016-09-06,2016,2010,Colombia,True,Casa,Manaus,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+2016-10-06,2016,2010,Bolivia,True,Casa,Natal,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+2016-10-11,2016,2010,Venezuela,False,Fora,Mérida,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2016-11-10,2016,2010,Argentina,True,Casa,Belo Horizonte,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2016-11-15,2016,2010,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2017-01-26,2017,2010,Colombia,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,1,0,1,Vitória,3
+2017-03-23,2017,2010,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,4,1,3,Vitória,3
+2017-03-28,2017,2010,Paraguay,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2017-06-09,2017,2010,Argentina,False,Neutro,Melbourne,Australia,Superclásico de las Américas,Outros Torneios,0,1,-1,Derrota,0
+2017-06-13,2017,2010,Australia,False,Fora,Melbourne,Australia,Friendly,Amistoso,4,0,4,Vitória,3
+2017-08-31,2017,2010,Ecuador,True,Casa,Porto Alegre,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2017-09-05,2017,2010,Colombia,False,Fora,Barranquilla,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2017-10-05,2017,2010,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2017-10-10,2017,2010,Chile,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2017-11-10,2017,2010,Japan,False,Neutro,Villeneuve-d'Ascq,France,Friendly,Amistoso,3,1,2,Vitória,3
+2017-11-14,2017,2010,England,False,Fora,London,England,Friendly,Amistoso,0,0,0,Empate,1
+2018-03-23,2018,2010,Russia,False,Fora,Moscow,Russia,Friendly,Amistoso,3,0,3,Vitória,3
+2018-03-27,2018,2010,Germany,False,Fora,Berlin,Germany,Friendly,Amistoso,1,0,1,Vitória,3
+2018-06-03,2018,2010,Croatia,False,Neutro,Liverpool,England,Friendly,Amistoso,2,0,2,Vitória,3
+2018-06-10,2018,2010,Austria,False,Fora,Vienna,Austria,Friendly,Amistoso,3,0,3,Vitória,3
+2018-06-17,2018,2010,Switzerland,True,Neutro,Rostov-on-Don,Russia,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+2018-06-22,2018,2010,Costa Rica,True,Neutro,Saint Petersburg,Russia,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2018-06-27,2018,2010,Serbia,False,Neutro,Moscow,Russia,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2018-07-02,2018,2010,Mexico,True,Neutro,Samara,Russia,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2018-07-06,2018,2010,Belgium,True,Neutro,Kazan,Russia,FIFA World Cup,Copa do Mundo,1,2,-1,Derrota,0
+2018-09-07,2018,2010,United States,False,Fora,East Rutherford,United States,Friendly,Amistoso,2,0,2,Vitória,3
+2018-09-12,2018,2010,El Salvador,True,Neutro,Landover,United States,Friendly,Amistoso,5,0,5,Vitória,3
+2018-10-12,2018,2010,Saudi Arabia,False,Fora,Riyadh,Saudi Arabia,Friendly,Amistoso,2,0,2,Vitória,3
+2018-10-16,2018,2010,Argentina,False,Neutro,Jeddah,Saudi Arabia,Superclásico de las Américas,Outros Torneios,1,0,1,Vitória,3
+2018-11-16,2018,2010,Uruguay,True,Neutro,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+2018-11-20,2018,2010,Cameroon,True,Neutro,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+2019-03-23,2019,2010,Panama,True,Neutro,Porto,Portugal,Friendly,Amistoso,1,1,0,Empate,1
+2019-03-26,2019,2010,Czech Republic,False,Fora,Prague,Czech Republic,Friendly,Amistoso,3,1,2,Vitória,3
+2019-06-05,2019,2010,Qatar,True,Casa,Brasília,Brazil,Friendly,Amistoso,2,0,2,Vitória,3
+2019-06-09,2019,2010,Honduras,True,Casa,Porto Alegre,Brazil,Friendly,Amistoso,7,0,7,Vitória,3
+2019-06-14,2019,2010,Bolivia,True,Casa,São Paulo,Brazil,Copa América,Copa América,3,0,3,Vitória,3
+2019-06-18,2019,2010,Venezuela,True,Casa,Salvador,Brazil,Copa América,Copa América,0,0,0,Empate,1
+2019-06-22,2019,2010,Peru,True,Casa,São Paulo,Brazil,Copa América,Copa América,5,0,5,Vitória,3
+2019-06-27,2019,2010,Paraguay,True,Casa,Porto Alegre,Brazil,Copa América,Copa América,0,0,0,Empate,1
+2019-07-02,2019,2010,Argentina,True,Casa,Belo Horizonte,Brazil,Copa América,Copa América,2,0,2,Vitória,3
+2019-07-07,2019,2010,Peru,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,3,1,2,Vitória,3
+2019-09-06,2019,2010,Colombia,True,Neutro,Miami Gardens,United States,Friendly,Amistoso,2,2,0,Empate,1
+2019-09-10,2019,2010,Peru,True,Neutro,Los Angeles,United States,Friendly,Amistoso,0,1,-1,Derrota,0
+2019-10-10,2019,2010,Senegal,True,Neutro,Kallang,Singapore,Friendly,Amistoso,1,1,0,Empate,1
+2019-10-13,2019,2010,Nigeria,True,Neutro,Kallang,Singapore,Friendly,Amistoso,1,1,0,Empate,1
+2019-11-15,2019,2010,Argentina,True,Neutro,Riyadh,Saudi Arabia,Superclásico de las Américas,Outros Torneios,0,1,-1,Derrota,0
+2019-11-19,2019,2010,South Korea,True,Neutro,Abu Dhabi,United Arab Emirates,Friendly,Amistoso,3,0,3,Vitória,3
+2020-10-09,2020,2020,Bolivia,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,0,5,Vitória,3
+2020-10-13,2020,2020,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,4,2,2,Vitória,3
+2020-11-13,2020,2020,Venezuela,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2020-11-17,2020,2020,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2021-06-04,2021,2020,Ecuador,True,Casa,Porto Alegre,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2021-06-08,2021,2020,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2021-06-13,2021,2020,Venezuela,True,Casa,Brasília,Brazil,Copa América,Copa América,3,0,3,Vitória,3
+2021-06-17,2021,2020,Peru,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,4,0,4,Vitória,3
+2021-06-23,2021,2020,Colombia,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,2,1,1,Vitória,3
+2021-06-27,2021,2020,Ecuador,True,Casa,Goiânia,Brazil,Copa América,Copa América,1,1,0,Empate,1
+2021-07-02,2021,2020,Chile,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,0,1,Vitória,3
+2021-07-05,2021,2020,Peru,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,1,0,1,Vitória,3
+2021-07-10,2021,2020,Argentina,True,Casa,Rio de Janeiro,Brazil,Copa América,Copa América,0,1,-1,Derrota,0
+2021-09-02,2021,2020,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2021-09-09,2021,2020,Peru,True,Casa,Recife,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,0,2,Vitória,3
+2021-10-07,2021,2020,Venezuela,False,Fora,Caracas,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,3,1,2,Vitória,3
+2021-10-10,2021,2020,Colombia,False,Fora,Barranquilla,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2021-10-14,2021,2020,Uruguay,True,Casa,Manaus,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,1,3,Vitória,3
+2021-11-11,2021,2020,Colombia,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2021-11-16,2021,2020,Argentina,False,Fora,San Juan,Argentina,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2022-01-27,2022,2020,Ecuador,False,Fora,Quito,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2022-02-01,2022,2020,Paraguay,True,Casa,Belo Horizonte,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+2022-03-24,2022,2020,Chile,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+2022-03-29,2022,2020,Bolivia,False,Fora,La Paz,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+2022-06-02,2022,2020,South Korea,False,Fora,Seoul,South Korea,Friendly,Amistoso,5,1,4,Vitória,3
+2022-06-06,2022,2020,Japan,False,Fora,Tokyo,Japan,Friendly,Amistoso,1,0,1,Vitória,3
+2022-09-23,2022,2020,Ghana,True,Neutro,Le Havre,France,Friendly,Amistoso,3,0,3,Vitória,3
+2022-09-27,2022,2020,Tunisia,True,Neutro,Paris,France,Friendly,Amistoso,5,1,4,Vitória,3
+2022-11-24,2022,2020,Serbia,True,Neutro,Lusail,Qatar,FIFA World Cup,Copa do Mundo,2,0,2,Vitória,3
+2022-11-28,2022,2020,Switzerland,True,Neutro,Doha,Qatar,FIFA World Cup,Copa do Mundo,1,0,1,Vitória,3
+2022-12-02,2022,2020,Cameroon,False,Neutro,Lusail,Qatar,FIFA World Cup,Copa do Mundo,0,1,-1,Derrota,0
+2022-12-05,2022,2020,South Korea,True,Neutro,Doha,Qatar,FIFA World Cup,Copa do Mundo,4,1,3,Vitória,3
+2022-12-09,2022,2020,Croatia,False,Neutro,Al Rayyan,Qatar,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+2023-03-25,2023,2020,Morocco,False,Fora,Tangier,Morocco,Friendly,Amistoso,1,2,-1,Derrota,0
+2023-06-17,2023,2020,Guinea,True,Neutro,Barcelona,Spain,Friendly,Amistoso,4,1,3,Vitória,3
+2023-06-20,2023,2020,Senegal,True,Neutro,Lisbon,Portugal,Friendly,Amistoso,2,4,-2,Derrota,0
+2023-09-08,2023,2020,Bolivia,True,Casa,Belém,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,5,1,4,Vitória,3
+2023-09-12,2023,2020,Peru,False,Fora,Lima,Peru,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2023-10-12,2023,2020,Venezuela,True,Casa,Cuiabá,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2023-10-17,2023,2020,Uruguay,False,Fora,Montevideo,Uruguay,FIFA World Cup qualification,Eliminatórias da Copa,0,2,-2,Derrota,0
+2023-11-16,2023,2020,Colombia,False,Fora,Barranquilla,Colombia,FIFA World Cup qualification,Eliminatórias da Copa,1,2,-1,Derrota,0
+2023-11-21,2023,2020,Argentina,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,0,1,-1,Derrota,0
+2024-03-23,2024,2020,England,False,Fora,London,England,Friendly,Amistoso,1,0,1,Vitória,3
+2024-03-26,2024,2020,Spain,False,Fora,Madrid,Spain,Friendly,Amistoso,3,3,0,Empate,1
+2024-06-08,2024,2020,Mexico,False,Neutro,College Station,United States,Friendly,Amistoso,3,2,1,Vitória,3
+2024-06-12,2024,2020,United States,False,Fora,Orlando,United States,Friendly,Amistoso,1,1,0,Empate,1
+2024-06-24,2024,2020,Costa Rica,True,Neutro,Inglewood,United States,Copa América,Copa América,0,0,0,Empate,1
+2024-06-28,2024,2020,Paraguay,False,Neutro,Las Vegas,United States,Copa América,Copa América,4,1,3,Vitória,3
+2024-07-02,2024,2020,Colombia,True,Neutro,Santa Clara,United States,Copa América,Copa América,1,1,0,Empate,1
+2024-07-06,2024,2020,Uruguay,False,Neutro,Las Vegas,United States,Copa América,Copa América,0,0,0,Empate,1
+2024-09-06,2024,2020,Ecuador,True,Casa,Curitiba,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2024-09-10,2024,2020,Paraguay,False,Fora,Asunción,Paraguay,FIFA World Cup qualification,Eliminatórias da Copa,0,1,-1,Derrota,0
+2024-10-10,2024,2020,Chile,False,Fora,Santiago,Chile,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+2024-10-15,2024,2020,Peru,True,Casa,Brasília,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,4,0,4,Vitória,3
+2024-11-14,2024,2020,Venezuela,False,Fora,Maturín,Venezuela,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2024-11-19,2024,2020,Uruguay,True,Casa,Salvador,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,1,0,Empate,1
+2025-03-20,2025,2020,Colombia,True,Casa,Brasília,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,2,1,1,Vitória,3
+2025-03-25,2025,2020,Argentina,False,Fora,Buenos Aires,Argentina,FIFA World Cup qualification,Eliminatórias da Copa,1,4,-3,Derrota,0
+2025-06-05,2025,2020,Ecuador,False,Fora,Guayaquil,Ecuador,FIFA World Cup qualification,Eliminatórias da Copa,0,0,0,Empate,1
+2025-06-10,2025,2020,Paraguay,True,Casa,São Paulo,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,1,0,1,Vitória,3
+2025-09-04,2025,2020,Chile,True,Casa,Rio de Janeiro,Brazil,FIFA World Cup qualification,Eliminatórias da Copa,3,0,3,Vitória,3
+2025-09-09,2025,2020,Bolivia,False,Fora,El Alto,Bolivia,FIFA World Cup qualification,Eliminatórias da Copa,0,1,-1,Derrota,0
+2025-10-10,2025,2020,South Korea,False,Fora,Seoul,South Korea,Friendly,Amistoso,5,0,5,Vitória,3
+2025-10-14,2025,2020,Japan,False,Fora,Tokyo,Japan,Kirin Cup,Outros Torneios,2,3,-1,Derrota,0
+2025-11-15,2025,2020,Senegal,True,Neutro,London,England,Friendly,Amistoso,2,0,2,Vitória,3
+2025-11-18,2025,2020,Tunisia,True,Neutro,Lille,France,Friendly,Amistoso,1,1,0,Empate,1
+2026-03-26,2026,2020,France,True,Neutro,Foxborough,United States,Friendly,Amistoso,1,2,-1,Derrota,0
+2026-03-31,2026,2020,Croatia,True,Neutro,Orlando,United States,Friendly,Amistoso,3,1,2,Vitória,3
+2026-05-31,2026,2020,Panama,True,Casa,Rio de Janeiro,Brazil,Friendly,Amistoso,6,2,4,Vitória,3
+2026-06-06,2026,2020,Egypt,True,Neutro,Cleveland,United States,Friendly,Amistoso,2,1,1,Vitória,3
+2026-06-13,2026,2020,Morocco,True,Neutro,East Rutherford,United States,FIFA World Cup,Copa do Mundo,1,1,0,Empate,1
+2026-06-19,2026,2020,Haiti,True,Neutro,Philadelphia,United States,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+2026-06-24,2026,2020,Scotland,False,Neutro,Miami Gardens,United States,FIFA World Cup,Copa do Mundo,3,0,3,Vitória,3
+2026-06-29,2026,2020,Japan,True,Neutro,Houston,United States,FIFA World Cup,Copa do Mundo,2,1,1,Vitória,3
