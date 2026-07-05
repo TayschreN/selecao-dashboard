@@ -5,13 +5,19 @@ Dashboard interativo sobre a Seleção Brasileira de Futebol masculina, cobrindo
 🔗 **Fonte dos dados (jogos):** [International football results from 1872 to 2026](https://github.com/martj42/international_results)
 🔗 **Fonte dos dados (artilheiros):** [Brazil national football team records and statistics — Wikipedia](https://en.wikipedia.org/wiki/Brazil_national_football_team_records_and_statistics) (atualizado em 2026, cita RSSSF/CBF/FIFA)
 
-## ⚠️ Nota sobre qualidade de dados
+https://selecao-dashboard.onrender.com/ - Dashboard ao Vivo
 
-O dataset público usado para os jogos (`results.csv`) tem um arquivo complementar de artilheiros por partida (`goalscorers.csv`) que é **gravemente incompleto para o Brasil**: cobre apenas ~47% dos 2.314 gols reais marcados pela seleção (a cobertura varia de 16% a 60% por década). Usar esse arquivo direto gerava um ranking de artilheiros completamente errado — por exemplo, mostrava Pelé com 26 gols em vez dos 77 reais, e Ronaldo com 39 em vez de 62.
+![Dashboard](data/tela1.png)
+![Dashboard](data/tela2.png)
+![Dashboard](data/tela3.png)
+![Dashboard](data/tela4.png)
+![Dashboard](data/tela5.png)
+![Dashboard](data/tela6.png)
+![Dashboard](data/tela7.png)
+![Dashboard](data/tela8.png)
 
-Por isso, o ranking de artilheiros (`build_top_scorers()` em `src/process_data.py`) **não** usa esse arquivo. Os números vêm da tabela oficial da Wikipédia, verificada manualmente. Os demais dados (jogos, competições, adversários, Copas do Mundo) vêm de `results.csv`, que foi validado contra a Wikipédia em vários pontos — resultados históricos marcantes (Maracanaço, 7x1 vs Alemanha, finais de Copa) e o retrospecto completo contra a Argentina (43V-26E, batendo exato) — e está de acordo com a fonte oficial, com uma diferença mínima e conhecida (~1 jogo a menos no total histórico, por divergência documentada entre AFA e CBF sobre um jogo específico).
 
-## O que o projeto entrega
+## O que o projeto entrega:
 
 1. **Pipeline de dados** (`src/process_data.py`): filtra os 1.063 jogos do Brasil na base pública de resultados internacionais e gera datasets agregados (por ano, competição, adversário, edição de Copa) + tabela de artilheiros verificada manualmente.
 2. **Dashboard interativo em Dash** (`app.py`): 5 abas — Visão Geral, Competições, Adversários (com dropdown de confronto direto), Artilheiros, Forma Recente — com insights calculados dinamicamente a partir dos dados e botão de download de imagem (PNG em alta resolução) em cada gráfico.
